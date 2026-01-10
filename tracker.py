@@ -108,6 +108,33 @@ def main():
     top_dollar_display['Short % of Float'] = top_dollar_display['Short % of Float'].apply(lambda x: f"{x:.2%}")
     top_dollar_display['Current Price'] = top_dollar_display['Current Price'].apply(lambda x: f"${x:.2f}")
 
+
+    # --- Save Snapshot ---
+    data_dir = "data"
+    os.makedirs(data_dir, exist_ok=True)
+    today = time.strftime("%Y-%m-%d")
+    json_path = os.path.join(data_dir, f"{today}.json")
+    
+    # Save full dataset or just the top lists? 
+    # Plan said "Save weekly scans... [{ticker, short_float...}]"
+    # It's better to save the full list (or at least top 50/100) so we have raw data.
+    # Let's save the full list for now, it's not that big for 500 items.
+    
+    # Convert dataframe to list of dicts
+    json_data = df.to_dict(orient='records')
+    import json
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, indent=2)
+    print(f"Saved snapshot to {json_path}")
+    
+    # --- Update Index ---
+    # List all json files in data_dir to create an index for the frontend
+    files = sorted([f for f in os.listdir(data_dir) if f.endswith(".json") and f != "index.json"], reverse=True)
+    index_path = os.path.join(data_dir, "index.json")
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(files, f, indent=2)
+    print(f"Updated index at {index_path}")
+
     # --- Generate Markdown ---
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S EST") # Note: server time might not be EST, but we label it.
     

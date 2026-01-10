@@ -1,0 +1,162 @@
+[
+  {
+    "Ticker": "AAPL",
+    "Name": "AAPL Corp",
+    "Short % of Float": 0.09021396311369001,
+    "Shares Short": 31861797,
+    "Current Price": 352.7695328346325,
+    "Dollar Value Shorted": 11239871242.961895
+  },
+  {
+    "Ticker": "MSFT",
+    "Name": "MSFT Corp",
+    "Short % of Float": 0.09574375220098043,
+    "Shares Short": 33646583,
+    "Current Price": 275.32493083024724,
+    "Dollar Value Shorted": 9263743137.149172
+  },
+  {
+    "Ticker": "GOOGL",
+    "Name": "GOOGL Corp",
+    "Short % of Float": 0.16502077634465165,
+    "Shares Short": 1645186,
+    "Current Price": 95.77840256763687,
+    "Dollar Value Shorted": 157573287.00664023
+  },
+  {
+    "Ticker": "AMZN",
+    "Name": "AMZN Corp",
+    "Short % of Float": 0.0734588833980612,
+    "Shares Short": 10294589,
+    "Current Price": 386.05724273656966,
+    "Dollar Value Shorted": 3974300644.44622
+  },
+  {
+    "Ticker": "TSLA",
+    "Name": "TSLA Corp",
+    "Short % of Float": 0.2155142341231653,
+    "Shares Short": 29160281,
+    "Current Price": 277.9847059609033,
+    "Dollar Value Shorted": 8106112139.522315
+  },
+  {
+    "Ticker": "NVDA",
+    "Name": "NVDA Corp",
+    "Short % of Float": 0.14826714905560448,
+    "Shares Short": 23921717,
+    "Current Price": 106.66391864315949,
+    "Dollar Value Shorted": 2551584075.8926854
+  },
+  {
+    "Ticker": "META",
+    "Name": "META Corp",
+    "Short % of Float": 0.13110106569484703,
+    "Shares Short": 5387248,
+    "Current Price": 295.28660447188065,
+    "Dollar Value Shorted": 1590782169.3679302
+  },
+  {
+    "Ticker": "AMD",
+    "Name": "AMD Corp",
+    "Short % of Float": 0.164408371880094,
+    "Shares Short": 44878812,
+    "Current Price": 178.85913111274982,
+    "Dollar Value Shorted": 8026985319.69245
+  },
+  {
+    "Ticker": "NFLX",
+    "Name": "NFLX Corp",
+    "Short % of Float": 0.14209668393862795,
+    "Shares Short": 7402010,
+    "Current Price": 106.56254044319348,
+    "Dollar Value Shorted": 788776989.9859226
+  },
+  {
+    "Ticker": "GME",
+    "Name": "GME Corp",
+    "Short % of Float": 0.091858372958584,
+    "Shares Short": 4244712,
+    "Current Price": 112.49528674031629,
+    "Dollar Value Shorted": 477510093.57006145
+  },
+  {
+    "Ticker": "AMC",
+    "Name": "AMC Corp",
+    "Short % of Float": 0.16521201331301866,
+    "Shares Short": 48697859,
+    "Current Price": 484.1885460627422,
+    "Dollar Value Shorted": 23578945545.578426
+  },
+  {
+    "Ticker": "SPY",
+    "Name": "SPY Corp",
+    "Short % of Float": 0.20588885823482253,
+    "Shares Short": 8887079,
+    "Current Price": 420.4977763518599,
+    "Dollar Value Shorted": 3736996957.763311
+  },
+  {
+    "Ticker": "QQQ",
+    "Name": "QQQ Corp",
+    "Short % of Float": 0.07955285615013295,
+    "Shares Short": 20695639,
+    "Current Price": 329.3383841344975,
+    "Dollar Value Shorted": 6815868306.890888
+  },
+  {
+    "Ticker": "IWM",
+    "Name": "IWM Corp",
+    "Short % of Float": 0.10690236857987966,
+    "Shares Short": 16941475,
+    "Current Price": 416.2090353943685,
+    "Dollar Value Shorted": 7051194967.907809
+  },
+  {
+    "Ticker": "V",
+    "Name": "V Corp",
+    "Short % of Float": 0.07408529477557833,
+    "Shares Short": 31229493,
+    "Current Price": 125.84674317938871,
+    "Dollar Value Shorted": 3930129985.1935177
+  },
+  {
+    "Ticker": "JPM",
+    "Name": "JPM Corp",
+    "Short % of Float": 0.14864002470008053,
+    "Shares Short": 29515256,
+    "Current Price": 207.06531313367654,
+    "Dollar Value Shorted": 6111585725.860625
+  },
+  {
+    "Ticker": "DIS",
+    "Name": "DIS Corp",
+    "Short % of Float": 0.2269076349865219,
+    "Shares Short": 37578666,
+    "Current Price": 155.80619052574534,
+    "Dollar Value Shorted": 5854988794.499349
+  },
+  {
+    "Ticker": "BA",
+    "Name": "BA Corp",
+    "Short % of Float": 0.08438970671841742,
+    "Shares Short": 11905086,
+    "Current Price": 288.7366157174596,
+    "Dollar Value Shorted": 3437434241.465308
+  },
+  {
+    "Ticker": "INTC",
+    "Name": "INTC Corp",
+    "Short % of Float": 0.09678821858573183,
+    "Shares Short": 16324312,
+    "Current Price": 259.720448279979,
+    "Dollar Value Shorted": 4239757630.5022407
+  },
+  {
+    "Ticker": "CSCO",
+    "Name": "CSCO Corp",
+    "Short % of Float": 0.16625050233240005,
+    "Shares Short": 43125903,
+    "Current Price": 331.3267491833088,
+    "Dollar Value Shorted": 14288765246.584703
+  }
+]

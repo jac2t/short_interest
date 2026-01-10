@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&P 500 Short Interest Tracker</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; background: #f4f4f9; color: #333; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #2c3e50; }
+        .controls { text-align: center; margin-bottom: 20px; }
+        select { padding: 8px 16px; font-size: 16px; border-radius: 4px; border: 1px solid #ccc; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #2c3e50; color: white; cursor: pointer; }
+        th:hover { background-color: #34495e; }
+        tr:hover { background-color: #f1f1f1; }
+        .loading { text-align: center; font-style: italic; color: #777; }
+        .section-title { margin-top: 40px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>S&P 500 Short Interest Tracker</h1>
+    
+    <div class="controls">
+        <label for="dateSelect">Select Week: </label>
+        <select id="dateSelect" onchange="loadData()">
+            <option value="" disabled selected>Loading dates...</option>
+        </select>
+    </div>
+
+    <h2 class="section-title">Top 10 by % Float Shorted</h2>
+    <table id="tablePercent">
+        <thead>
+            <tr>
+                <th>Ticker</th>
+                <th>Name</th>
+                <th>Short % of Float</th>
+                <th>Dollar Value Shorted</th>
+                <th>Current Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data rows go here -->
+        </tbody>
+    </table>
+
+    <h2 class="section-title">Top 10 by Absolute Dollar Value Shorted</h2>
+    <table id="tableDollar">
+        <thead>
+            <tr>
+                <th>Ticker</th>
+                <th>Name</th>
+                <th>Dollar Value Shorted</th>
+                <th>Short % of Float</th>
+                <th>Current Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data rows go here -->
+        </tbody>
+    </table>
+    
+    <p style="text-align: center; margin-top: 30px; font-size: 0.9em; color: #777;">
+        Data updates every Friday at 5 PM EST.
+    </p>
+</div>
+
+<script>
+    const dataDir = 'data/';
+    
+    async function loadDates() {
+        try {
+            const response = await fetch(dataDir + 'index.json');
+            const dates = await response.json();
+            const select = document.getElementById('dateSelect');
+            select.innerHTML = '';
+            
+            dates.forEach((dateFile, index) => {
+                const date = dateFile.replace('.json', '');
+                const option = document.createElement('option');
+                option.value = dateFile;
+                option.textContent = date;
+                select.appendChild(option);
+            });
+            
+            if (dates.length > 0) {
+                loadData(dates[0]); // Load most recent by default
+            }
+        } catch (error) {
+            console.error('Error loading index:', error);
+            document.getElementById('dateSelect').innerHTML = '<option>Error loading dates</option>';
+        }
+    }
+
+    async function loadData() {
+        const select = document.getElementById('dateSelect');
+        const file = select.value;
+        if (!file) return;
+
+        try {
+            const response = await fetch(dataDir + file);
+            const data = await response.json();
+            renderTables(data);
+        } catch (error) {
+            console.error('Error loading data:', error);
+        }
+    }
+
+    function formatMoney(amount) {
+        return '$' + amount.toLocaleString(undefined, {minimumFractionDigits: 0, maximumFractionDigits: 0});
+    }
+
+    function formatPercent(decimal) {
+        return (decimal * 100).toFixed(2) + '%';
+    }
+
+    function renderTables(data) {
+        // Sort for Top % Short
+        const topPercent = [...data].sort((a, b) => b['Short % of Float'] - a['Short % of Float']).slice(0, 10);
+        
+        // Sort for Top Dollar Value
+        const topDollar = [...data].sort((a, b) => b['Dollar Value Shorted'] - a['Dollar Value Shorted']).slice(0, 10);
+
+        const tbodyPercent = document.querySelector('#tablePercent tbody');
+        tbodyPercent.innerHTML = topPercent.map(item => `
+            <tr>
+                <td><b>${item.Ticker}</b></td>
+                <td>${item.Name || item.Ticker}</td>
+                <td>${formatPercent(item['Short % of Float'])}</td>
+                <td>${formatMoney(item['Dollar Value Shorted'])}</td>
+                <td>$${item['Current Price'].toFixed(2)}</td>
+            </tr>
+        `).join('');
+
+        const tbodyDollar = document.querySelector('#tableDollar tbody');
+        tbodyDollar.innerHTML = topDollar.map(item => `
+            <tr>
+                <td><b>${item.Ticker}</b></td>
+                <td>${item.Name || item.Ticker}</td>
+                <td>${formatMoney(item['Dollar Value Shorted'])}</td>
+                <td>${formatPercent(item['Short % of Float'])}</td>
+                <td>$${item['Current Price'].toFixed(2)}</td>
+            </tr>
+        `).join('');
+    }
+
+    // Initialize
+    loadDates();
+</script>
+
+</body>
+</html>
