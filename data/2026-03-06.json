@@ -1,0 +1,4026 @@
+[
+  {
+    "Ticker": "APD",
+    "Name": "Air Products and Chemicals, Inc",
+    "Short % of Float": 0.0233,
+    "Shares Short": 5094818,
+    "Current Price": 272.18,
+    "Dollar Value Shorted": 1386707563.24
+  },
+  {
+    "Ticker": "MMM",
+    "Name": "3M Company",
+    "Short % of Float": 0.0156,
+    "Shares Short": 8186036,
+    "Current Price": 153.41,
+    "Dollar Value Shorted": 1255819782.76
+  },
+  {
+    "Ticker": "ADBE",
+    "Name": "Adobe Inc.",
+    "Short % of Float": 0.030199999,
+    "Shares Short": 12365032,
+    "Current Price": 283.62,
+    "Dollar Value Shorted": 3506970375.84
+  },
+  {
+    "Ticker": "ALLE",
+    "Name": "Allegion plc",
+    "Short % of Float": 0.0334,
+    "Shares Short": 2517600,
+    "Current Price": 150.37,
+    "Dollar Value Shorted": 378571512.0
+  },
+  {
+    "Ticker": "ALGN",
+    "Name": "Align Technology, Inc.",
+    "Short % of Float": 0.0428,
+    "Shares Short": 2362822,
+    "Current Price": 174.0,
+    "Dollar Value Shorted": 411131028.0
+  },
+  {
+    "Ticker": "ABNB",
+    "Name": "Airbnb, Inc.",
+    "Short % of Float": 0.0365,
+    "Shares Short": 15167170,
+    "Current Price": 133.23,
+    "Dollar Value Shorted": 2020722059.1
+  },
+  {
+    "Ticker": "ARE",
+    "Name": "Alexandria Real Estate Equities",
+    "Short % of Float": 0.0645,
+    "Shares Short": 8229183,
+    "Current Price": 50.73,
+    "Dollar Value Shorted": 417466453.59
+  },
+  {
+    "Ticker": "AES",
+    "Name": "The AES Corporation",
+    "Short % of Float": 0.031600002,
+    "Shares Short": 19572555,
+    "Current Price": 14.15,
+    "Dollar Value Shorted": 276951653.25
+  },
+  {
+    "Ticker": "A",
+    "Name": "Agilent Technologies, Inc.",
+    "Short % of Float": 0.0172,
+    "Shares Short": 4288618,
+    "Current Price": 115.07,
+    "Dollar Value Shorted": 493491273.26
+  },
+  {
+    "Ticker": "ABT",
+    "Name": "Abbott Laboratories",
+    "Short % of Float": 0.0099,
+    "Shares Short": 17198525,
+    "Current Price": 109.56,
+    "Dollar Value Shorted": 1884270399.0
+  },
+  {
+    "Ticker": "ACN",
+    "Name": "Accenture plc",
+    "Short % of Float": 0.0276,
+    "Shares Short": 15216275,
+    "Current Price": 215.0,
+    "Dollar Value Shorted": 3271499125.0
+  },
+  {
+    "Ticker": "AFL",
+    "Name": "AFLAC Incorporated",
+    "Short % of Float": 0.0143,
+    "Shares Short": 7355225,
+    "Current Price": 111.29,
+    "Dollar Value Shorted": 818562990.25
+  },
+  {
+    "Ticker": "AMD",
+    "Name": "Advanced Micro Devices, Inc.",
+    "Short % of Float": 0.0189,
+    "Shares Short": 30729466,
+    "Current Price": 192.43,
+    "Dollar Value Shorted": 5913271142.38
+  },
+  {
+    "Ticker": "LNT",
+    "Name": "Alliant Energy Corporation",
+    "Short % of Float": 0.0853,
+    "Shares Short": 19144909,
+    "Current Price": 71.55,
+    "Dollar Value Shorted": 1369818238.95
+  },
+  {
+    "Ticker": "ALB",
+    "Name": "Albemarle Corporation",
+    "Short % of Float": 0.109799996,
+    "Shares Short": 8590028,
+    "Current Price": 162.29,
+    "Dollar Value Shorted": 1394075644.12
+  },
+  {
+    "Ticker": "AKAM",
+    "Name": "Akamai Technologies, Inc.",
+    "Short % of Float": 0.121199995,
+    "Shares Short": 13197385,
+    "Current Price": 99.89,
+    "Dollar Value Shorted": 1318286787.65
+  },
+  {
+    "Ticker": "GOOGL",
+    "Name": "Alphabet Inc.",
+    "Short % of Float": 0.0126,
+    "Shares Short": 73567743,
+    "Current Price": 298.52,
+    "Dollar Value Shorted": 21961442640.359997
+  },
+  {
+    "Ticker": "ABBV",
+    "Name": "AbbVie Inc.",
+    "Short % of Float": 0.0128999995,
+    "Shares Short": 22876092,
+    "Current Price": 230.11,
+    "Dollar Value Shorted": 5264017530.12
+  },
+  {
+    "Ticker": "AOS",
+    "Name": "A.O. Smith Corporation",
+    "Short % of Float": 0.0557,
+    "Shares Short": 6213011,
+    "Current Price": 71.01,
+    "Dollar Value Shorted": 441185911.11
+  },
+  {
+    "Ticker": "GOOG",
+    "Name": "Alphabet Inc.",
+    "Short % of Float": 0.0,
+    "Shares Short": 48648196,
+    "Current Price": 298.3,
+    "Dollar Value Shorted": 14511756866.800001
+  },
+  {
+    "Ticker": "MO",
+    "Name": "Altria Group, Inc.",
+    "Short % of Float": 0.0279,
+    "Shares Short": 46593623,
+    "Current Price": 66.51,
+    "Dollar Value Shorted": 3098941865.73
+  },
+  {
+    "Ticker": "AMZN",
+    "Name": "Amazon.com, Inc.",
+    "Short % of Float": 0.009,
+    "Shares Short": 86971840,
+    "Current Price": 213.21,
+    "Dollar Value Shorted": 18543266006.4
+  },
+  {
+    "Ticker": "AMCR",
+    "Name": "Amcor plc",
+    "Short % of Float": 0.0616,
+    "Shares Short": 26459272,
+    "Current Price": 43.28,
+    "Dollar Value Shorted": 1145157292.16
+  },
+  {
+    "Ticker": "AXP",
+    "Name": "American Express Company",
+    "Short % of Float": 0.0161,
+    "Shares Short": 8616704,
+    "Current Price": 301.0,
+    "Dollar Value Shorted": 2593627904.0
+  },
+  {
+    "Ticker": "AIG",
+    "Name": "American International Group, I",
+    "Short % of Float": 0.021300001,
+    "Shares Short": 8554803,
+    "Current Price": 78.72,
+    "Dollar Value Shorted": 673434092.16
+  },
+  {
+    "Ticker": "AMP",
+    "Name": "Ameriprise Financial, Inc.",
+    "Short % of Float": 0.0418,
+    "Shares Short": 3263762,
+    "Current Price": 464.89,
+    "Dollar Value Shorted": 1517290316.18
+  },
+  {
+    "Ticker": "APH",
+    "Name": "Amphenol Corporation",
+    "Short % of Float": 0.0154,
+    "Shares Short": 16395991,
+    "Current Price": 131.87,
+    "Dollar Value Shorted": 2162139333.17
+  },
+  {
+    "Ticker": "AME",
+    "Name": "AMETEK, Inc.",
+    "Short % of Float": 0.0119,
+    "Shares Short": 2419622,
+    "Current Price": 221.98,
+    "Dollar Value Shorted": 537107691.56
+  },
+  {
+    "Ticker": "AEE",
+    "Name": "Ameren Corporation",
+    "Short % of Float": 0.0342,
+    "Shares Short": 7411082,
+    "Current Price": 111.52,
+    "Dollar Value Shorted": 826483864.64
+  },
+  {
+    "Ticker": "AON",
+    "Name": "Aon plc",
+    "Short % of Float": 0.0104,
+    "Shares Short": 2202013,
+    "Current Price": 340.6,
+    "Dollar Value Shorted": 750005627.8000001
+  },
+  {
+    "Ticker": "AMGN",
+    "Name": "Amgen Inc.",
+    "Short % of Float": 0.0269,
+    "Shares Short": 14443255,
+    "Current Price": 369.53,
+    "Dollar Value Shorted": 5337216020.15
+  },
+  {
+    "Ticker": "AMT",
+    "Name": "American Tower Corporation (REI",
+    "Short % of Float": 0.0166,
+    "Shares Short": 6744851,
+    "Current Price": 188.59,
+    "Dollar Value Shorted": 1272011450.09
+  },
+  {
+    "Ticker": "ADI",
+    "Name": "Analog Devices, Inc.",
+    "Short % of Float": 0.0188,
+    "Shares Short": 8208539,
+    "Current Price": 315.81,
+    "Dollar Value Shorted": 2592338701.59
+  },
+  {
+    "Ticker": "AWK",
+    "Name": "American Water Works Company, I",
+    "Short % of Float": 0.062,
+    "Shares Short": 9375000,
+    "Current Price": 137.49,
+    "Dollar Value Shorted": 1288968750.0
+  },
+  {
+    "Ticker": "APA",
+    "Name": "APA Corporation",
+    "Short % of Float": 0.1192,
+    "Shares Short": 37047230,
+    "Current Price": 32.68,
+    "Dollar Value Shorted": 1210703476.4
+  },
+  {
+    "Ticker": "AEP",
+    "Name": "American Electric Power Company",
+    "Short % of Float": 0.0345,
+    "Shares Short": 18651847,
+    "Current Price": 131.87,
+    "Dollar Value Shorted": 2459619063.89
+  },
+  {
+    "Ticker": "APO",
+    "Name": "Apollo Global Management, Inc. ",
+    "Short % of Float": 0.052199997,
+    "Shares Short": 27777871,
+    "Current Price": 108.7,
+    "Dollar Value Shorted": 3019454577.7000003
+  },
+  {
+    "Ticker": "AAPL",
+    "Name": "Apple Inc.",
+    "Short % of Float": 0.0091,
+    "Shares Short": 133373267,
+    "Current Price": 257.46,
+    "Dollar Value Shorted": 34338281321.819996
+  },
+  {
+    "Ticker": "ACGL",
+    "Name": "Arch Capital Group Ltd.",
+    "Short % of Float": 0.0183,
+    "Shares Short": 5588593,
+    "Current Price": 97.21,
+    "Dollar Value Shorted": 543267125.53
+  },
+  {
+    "Ticker": "AMAT",
+    "Name": "Applied Materials, Inc.",
+    "Short % of Float": 0.0186,
+    "Shares Short": 14696995,
+    "Current Price": 324.74,
+    "Dollar Value Shorted": 4772702156.3
+  },
+  {
+    "Ticker": "APTV",
+    "Name": "Aptiv PLC",
+    "Short % of Float": 0.039100002,
+    "Shares Short": 7044792,
+    "Current Price": 72.7,
+    "Dollar Value Shorted": 512156378.40000004
+  },
+  {
+    "Ticker": "ANET",
+    "Name": "Arista Networks, Inc.",
+    "Short % of Float": 0.0124,
+    "Shares Short": 12739253,
+    "Current Price": 132.89,
+    "Dollar Value Shorted": 1692919331.1699998
+  },
+  {
+    "Ticker": "APP",
+    "Name": "Applovin Corporation",
+    "Short % of Float": 0.049200002,
+    "Shares Short": 14450337,
+    "Current Price": 502.14,
+    "Dollar Value Shorted": 7256092221.179999
+  },
+  {
+    "Ticker": "ADM",
+    "Name": "Archer-Daniels-Midland Company",
+    "Short % of Float": 0.036199998,
+    "Shares Short": 13253195,
+    "Current Price": 67.44,
+    "Dollar Value Shorted": 893795470.8
+  },
+  {
+    "Ticker": "ARES",
+    "Name": "Ares Management Corporation",
+    "Short % of Float": 0.0515,
+    "Shares Short": 10627353,
+    "Current Price": 110.01,
+    "Dollar Value Shorted": 1169115103.53
+  },
+  {
+    "Ticker": "ADSK",
+    "Name": "Autodesk, Inc.",
+    "Short % of Float": 0.030199999,
+    "Shares Short": 6400196,
+    "Current Price": 260.99,
+    "Dollar Value Shorted": 1670387154.04
+  },
+  {
+    "Ticker": "ADP",
+    "Name": "Automatic Data Processing, Inc.",
+    "Short % of Float": 0.0277,
+    "Shares Short": 9979809,
+    "Current Price": 226.24,
+    "Dollar Value Shorted": 2257831988.1600003
+  },
+  {
+    "Ticker": "AVB",
+    "Name": "AvalonBay Communities, Inc.",
+    "Short % of Float": 0.0512,
+    "Shares Short": 5206687,
+    "Current Price": 177.89,
+    "Dollar Value Shorted": 926217550.43
+  },
+  {
+    "Ticker": "T",
+    "Name": "AT&T Inc.",
+    "Short % of Float": 0.016,
+    "Shares Short": 111651160,
+    "Current Price": 28.64,
+    "Dollar Value Shorted": 3197689222.4
+  },
+  {
+    "Ticker": "ALL",
+    "Name": "Allstate Corporation (The)",
+    "Short % of Float": 0.0252,
+    "Shares Short": 5692361,
+    "Current Price": 212.32,
+    "Dollar Value Shorted": 1208602087.52
+  },
+  {
+    "Ticker": "AXON",
+    "Name": "Axon Enterprise, Inc.",
+    "Short % of Float": 0.037,
+    "Shares Short": 2550846,
+    "Current Price": 574.01,
+    "Dollar Value Shorted": 1464211112.46
+  },
+  {
+    "Ticker": "AIZ",
+    "Name": "Assurant, Inc.",
+    "Short % of Float": 0.0239,
+    "Shares Short": 769406,
+    "Current Price": 222.91,
+    "Dollar Value Shorted": 171508291.46
+  },
+  {
+    "Ticker": "AJG",
+    "Name": "Arthur J. Gallagher & Co.",
+    "Short % of Float": 0.0217,
+    "Shares Short": 4948436,
+    "Current Price": 228.13,
+    "Dollar Value Shorted": 1128886704.68
+  },
+  {
+    "Ticker": "AZO",
+    "Name": "AutoZone, Inc.",
+    "Short % of Float": 0.0217,
+    "Shares Short": 320640,
+    "Current Price": 3641.29,
+    "Dollar Value Shorted": 1167543225.6
+  },
+  {
+    "Ticker": "BKR",
+    "Name": "Baker Hughes Company",
+    "Short % of Float": 0.032899998,
+    "Shares Short": 25124707,
+    "Current Price": 59.81,
+    "Dollar Value Shorted": 1502708725.67
+  },
+  {
+    "Ticker": "AVY",
+    "Name": "Avery Dennison Corporation",
+    "Short % of Float": 0.0317,
+    "Shares Short": 2130609,
+    "Current Price": 179.64,
+    "Dollar Value Shorted": 382742600.76
+  },
+  {
+    "Ticker": "BALL",
+    "Name": "Ball Corporation",
+    "Short % of Float": 0.0196,
+    "Shares Short": 4516246,
+    "Current Price": 62.53,
+    "Dollar Value Shorted": 282400862.38
+  },
+  {
+    "Ticker": "ATO",
+    "Name": "Atmos Energy Corporation",
+    "Short % of Float": 0.0277,
+    "Shares Short": 4032962,
+    "Current Price": 185.04,
+    "Dollar Value Shorted": 746259288.48
+  },
+  {
+    "Ticker": "BAC",
+    "Name": "Bank of America Corporation",
+    "Short % of Float": 0.0139999995,
+    "Shares Short": 101109542,
+    "Current Price": 48.64,
+    "Dollar Value Shorted": 4917968122.88
+  },
+  {
+    "Ticker": "BAX",
+    "Name": "Baxter International Inc.",
+    "Short % of Float": 0.1247,
+    "Shares Short": 42637728,
+    "Current Price": 17.69,
+    "Dollar Value Shorted": 754261408.32
+  },
+  {
+    "Ticker": "BDX",
+    "Name": "Becton, Dickinson and Company",
+    "Short % of Float": 0.058000002,
+    "Shares Short": 14558496,
+    "Current Price": 167.12,
+    "Dollar Value Shorted": 2433015851.52
+  },
+  {
+    "Ticker": "BX",
+    "Name": "Blackstone Inc.",
+    "Short % of Float": 0.0175,
+    "Shares Short": 13014635,
+    "Current Price": 110.4,
+    "Dollar Value Shorted": 1436815704.0
+  },
+  {
+    "Ticker": "BBY",
+    "Name": "Best Buy Co., Inc.",
+    "Short % of Float": 0.13430001,
+    "Shares Short": 21848066,
+    "Current Price": 66.68,
+    "Dollar Value Shorted": 1456829040.88
+  },
+  {
+    "Ticker": "BIIB",
+    "Name": "Biogen Inc.",
+    "Short % of Float": 0.04,
+    "Shares Short": 4545171,
+    "Current Price": 184.87,
+    "Dollar Value Shorted": 840265762.77
+  },
+  {
+    "Ticker": "TECH",
+    "Name": "Bio-Techne Corp",
+    "Short % of Float": 0.082399994,
+    "Shares Short": 11308392,
+    "Current Price": 53.89,
+    "Dollar Value Shorted": 609409244.88
+  },
+  {
+    "Ticker": "XYZ",
+    "Name": "Block, Inc.",
+    "Short % of Float": 0.035099998,
+    "Shares Short": 19000728,
+    "Current Price": 66.33,
+    "Dollar Value Shorted": 1260318288.24
+  },
+  {
+    "Ticker": "BLK",
+    "Name": "BlackRock, Inc.",
+    "Short % of Float": 0.0097,
+    "Shares Short": 1471790,
+    "Current Price": 955.45,
+    "Dollar Value Shorted": 1406221755.5
+  },
+  {
+    "Ticker": "BA",
+    "Name": "Boeing Company (The)",
+    "Short % of Float": 0.0174,
+    "Shares Short": 13688808,
+    "Current Price": 231.11,
+    "Dollar Value Shorted": 3163620416.88
+  },
+  {
+    "Ticker": "BRK-B",
+    "Name": "Berkshire Hathaway Inc. New",
+    "Short % of Float": 0.0088,
+    "Shares Short": 10673871,
+    "Current Price": 498.98,
+    "Dollar Value Shorted": 5326048151.58
+  },
+  {
+    "Ticker": "BSX",
+    "Name": "Boston Scientific Corporation",
+    "Short % of Float": 0.018,
+    "Shares Short": 26641433,
+    "Current Price": 71.35,
+    "Dollar Value Shorted": 1900866244.55
+  },
+  {
+    "Ticker": "AVGO",
+    "Name": "Broadcom Inc.",
+    "Short % of Float": 0.0119,
+    "Shares Short": 49908631,
+    "Current Price": 330.48,
+    "Dollar Value Shorted": 16493804372.880001
+  },
+  {
+    "Ticker": "BR",
+    "Name": "Broadridge Financial Solutions,",
+    "Short % of Float": 0.026199998,
+    "Shares Short": 2677578,
+    "Current Price": 196.88,
+    "Dollar Value Shorted": 527161556.64
+  },
+  {
+    "Ticker": "BK",
+    "Name": "The Bank of New York Mellon Cor",
+    "Short % of Float": 0.0139999995,
+    "Shares Short": 9625488,
+    "Current Price": 115.23,
+    "Dollar Value Shorted": 1109144982.24
+  },
+  {
+    "Ticker": "BRO",
+    "Name": "Brown & Brown, Inc.",
+    "Short % of Float": 0.063,
+    "Shares Short": 16817193,
+    "Current Price": 73.5,
+    "Dollar Value Shorted": 1236063685.5
+  },
+  {
+    "Ticker": "BKNG",
+    "Name": "Booking Holdings Inc. Common St",
+    "Short % of Float": 0.025899999,
+    "Shares Short": 820195,
+    "Current Price": 4550.43,
+    "Dollar Value Shorted": 3732239933.8500004
+  },
+  {
+    "Ticker": "BF-B",
+    "Name": "Brown Forman Inc",
+    "Short % of Float": 0.1656,
+    "Shares Short": 47358538,
+    "Current Price": 25.26,
+    "Dollar Value Shorted": 1196276669.88
+  },
+  {
+    "Ticker": "BMY",
+    "Name": "Bristol-Myers Squibb Company",
+    "Short % of Float": 0.0156,
+    "Shares Short": 31674440,
+    "Current Price": 60.29,
+    "Dollar Value Shorted": 1909651987.6
+  },
+  {
+    "Ticker": "BLDR",
+    "Name": "Builders FirstSource, Inc.",
+    "Short % of Float": 0.0574,
+    "Shares Short": 4698707,
+    "Current Price": 93.12,
+    "Dollar Value Shorted": 437543595.84000003
+  },
+  {
+    "Ticker": "BG",
+    "Name": "Bunge Limited",
+    "Short % of Float": 0.0348,
+    "Shares Short": 5527168,
+    "Current Price": 116.67,
+    "Dollar Value Shorted": 644854690.5600001
+  },
+  {
+    "Ticker": "CDNS",
+    "Name": "Cadence Design Systems, Inc.",
+    "Short % of Float": 0.0209,
+    "Shares Short": 5028705,
+    "Current Price": 296.94,
+    "Dollar Value Shorted": 1493223662.7
+  },
+  {
+    "Ticker": "CPT",
+    "Name": "Camden Property Trust",
+    "Short % of Float": 0.0619,
+    "Shares Short": 4552484,
+    "Current Price": 106.53,
+    "Dollar Value Shorted": 484976120.52
+  },
+  {
+    "Ticker": "CAH",
+    "Name": "Cardinal Health, Inc.",
+    "Short % of Float": 0.024500001,
+    "Shares Short": 4999808,
+    "Current Price": 217.78,
+    "Dollar Value Shorted": 1088858186.24
+  },
+  {
+    "Ticker": "COF",
+    "Name": "Capital One Financial Corporati",
+    "Short % of Float": 0.013099999,
+    "Shares Short": 8084093,
+    "Current Price": 187.71,
+    "Dollar Value Shorted": 1517465097.03
+  },
+  {
+    "Ticker": "CARR",
+    "Name": "Carrier Global Corporation",
+    "Short % of Float": 0.0274,
+    "Shares Short": 18662166,
+    "Current Price": 58.35,
+    "Dollar Value Shorted": 1088937386.1000001
+  },
+  {
+    "Ticker": "CAT",
+    "Name": "Caterpillar, Inc.",
+    "Short % of Float": 0.0215,
+    "Shares Short": 10003029,
+    "Current Price": 680.9,
+    "Dollar Value Shorted": 6811062446.099999
+  },
+  {
+    "Ticker": "CPB",
+    "Name": "The Campbell's Company",
+    "Short % of Float": 0.2258,
+    "Shares Short": 34873303,
+    "Current Price": 25.8,
+    "Dollar Value Shorted": 899731217.4
+  },
+  {
+    "Ticker": "CVNA",
+    "Name": "Carvana Co.",
+    "Short % of Float": 0.12100001,
+    "Shares Short": 15165730,
+    "Current Price": 317.7,
+    "Dollar Value Shorted": 4818152421.0
+  },
+  {
+    "Ticker": "CHRW",
+    "Name": "C.H. Robinson Worldwide, Inc.",
+    "Short % of Float": 0.0713,
+    "Shares Short": 7384916,
+    "Current Price": 179.64,
+    "Dollar Value Shorted": 1326626310.24
+  },
+  {
+    "Ticker": "CBOE",
+    "Name": "Cboe Global Markets, Inc.",
+    "Short % of Float": 0.0298,
+    "Shares Short": 2549419,
+    "Current Price": 301.27,
+    "Dollar Value Shorted": 768063462.13
+  },
+  {
+    "Ticker": "CBRE",
+    "Name": "CBRE Group Inc",
+    "Short % of Float": 0.0163,
+    "Shares Short": 4009404,
+    "Current Price": 136.83,
+    "Dollar Value Shorted": 548606749.32
+  },
+  {
+    "Ticker": "CCL",
+    "Name": "Carnival Corporation",
+    "Short % of Float": 0.0356,
+    "Shares Short": 40847869,
+    "Current Price": 25.79,
+    "Dollar Value Shorted": 1053466541.51
+  },
+  {
+    "Ticker": "CNC",
+    "Name": "Centene Corporation",
+    "Short % of Float": 0.0335,
+    "Shares Short": 14382654,
+    "Current Price": 43.65,
+    "Dollar Value Shorted": 627802847.1
+  },
+  {
+    "Ticker": "CNP",
+    "Name": "CenterPoint Energy, Inc (Holdin",
+    "Short % of Float": 0.0708,
+    "Shares Short": 34728048,
+    "Current Price": 43.61,
+    "Dollar Value Shorted": 1514490173.28
+  },
+  {
+    "Ticker": "COR",
+    "Name": "Cencora, Inc.",
+    "Short % of Float": 0.0313,
+    "Shares Short": 5368048,
+    "Current Price": 358.46,
+    "Dollar Value Shorted": 1924230486.08
+  },
+  {
+    "Ticker": "CDW",
+    "Name": "CDW Corporation",
+    "Short % of Float": 0.0444,
+    "Shares Short": 5041861,
+    "Current Price": 123.42,
+    "Dollar Value Shorted": 622266484.62
+  },
+  {
+    "Ticker": "CRL",
+    "Name": "Charles River Laboratories Inte",
+    "Short % of Float": 0.069,
+    "Shares Short": 2953939,
+    "Current Price": 174.46,
+    "Dollar Value Shorted": 515344197.94
+  },
+  {
+    "Ticker": "BXP",
+    "Name": "BXP, Inc.",
+    "Short % of Float": 0.098500006,
+    "Shares Short": 11445660,
+    "Current Price": 52.94,
+    "Dollar Value Shorted": 605933240.4
+  },
+  {
+    "Ticker": "SCHW",
+    "Name": "Charles Schwab Corporation (The",
+    "Short % of Float": 0.0082,
+    "Shares Short": 13722066,
+    "Current Price": 95.23,
+    "Dollar Value Shorted": 1306752345.18
+  },
+  {
+    "Ticker": "CF",
+    "Name": "CF Industries Holdings, Inc.",
+    "Short % of Float": 0.088199995,
+    "Shares Short": 11325899,
+    "Current Price": 115.78,
+    "Dollar Value Shorted": 1311312586.22
+  },
+  {
+    "Ticker": "CVX",
+    "Name": "Chevron Corporation",
+    "Short % of Float": 0.0117,
+    "Shares Short": 23105401,
+    "Current Price": 189.94,
+    "Dollar Value Shorted": 4388639865.94
+  },
+  {
+    "Ticker": "CMG",
+    "Name": "Chipotle Mexican Grill, Inc.",
+    "Short % of Float": 0.028199999,
+    "Shares Short": 36521145,
+    "Current Price": 35.37,
+    "Dollar Value Shorted": 1291752898.6499999
+  },
+  {
+    "Ticker": "CB",
+    "Name": "Chubb Limited",
+    "Short % of Float": 0.0093,
+    "Shares Short": 3625667,
+    "Current Price": 328.0,
+    "Dollar Value Shorted": 1189218776.0
+  },
+  {
+    "Ticker": "CHD",
+    "Name": "Church & Dwight Company, Inc.",
+    "Short % of Float": 0.049200002,
+    "Shares Short": 10143445,
+    "Current Price": 100.7,
+    "Dollar Value Shorted": 1021444911.5
+  },
+  {
+    "Ticker": "CIEN",
+    "Name": "Ciena Corporation",
+    "Short % of Float": 0.0626,
+    "Shares Short": 5619035,
+    "Current Price": 294.17,
+    "Dollar Value Shorted": 1652951525.95
+  },
+  {
+    "Ticker": "CI",
+    "Name": "The Cigna Group",
+    "Short % of Float": 0.0227,
+    "Shares Short": 4498128,
+    "Current Price": 271.63,
+    "Dollar Value Shorted": 1221826508.6399999
+  },
+  {
+    "Ticker": "CTAS",
+    "Name": "Cintas Corporation",
+    "Short % of Float": 0.0233,
+    "Shares Short": 6953921,
+    "Current Price": 203.61,
+    "Dollar Value Shorted": 1415887854.8100002
+  },
+  {
+    "Ticker": "CSCO",
+    "Name": "Cisco Systems, Inc.",
+    "Short % of Float": 0.0139999995,
+    "Shares Short": 55264533,
+    "Current Price": 78.64,
+    "Dollar Value Shorted": 4346002875.12
+  },
+  {
+    "Ticker": "CINF",
+    "Name": "Cincinnati Financial Corporatio",
+    "Short % of Float": 0.018099999,
+    "Shares Short": 2407731,
+    "Current Price": 165.39,
+    "Dollar Value Shorted": 398214630.09
+  },
+  {
+    "Ticker": "C",
+    "Name": "Citigroup, Inc.",
+    "Short % of Float": 0.016,
+    "Shares Short": 27973195,
+    "Current Price": 106.53,
+    "Dollar Value Shorted": 2979984463.35
+  },
+  {
+    "Ticker": "CFG",
+    "Name": "Citizens Financial Group, Inc.",
+    "Short % of Float": 0.0462,
+    "Shares Short": 14787886,
+    "Current Price": 58.04,
+    "Dollar Value Shorted": 858288903.4399999
+  },
+  {
+    "Ticker": "CLX",
+    "Name": "Clorox Company (The)",
+    "Short % of Float": 0.071100004,
+    "Shares Short": 7460857,
+    "Current Price": 114.66,
+    "Dollar Value Shorted": 855461863.62
+  },
+  {
+    "Ticker": "CME",
+    "Name": "CME Group Inc.",
+    "Short % of Float": 0.015,
+    "Shares Short": 5372152,
+    "Current Price": 317.1,
+    "Dollar Value Shorted": 1703509399.2
+  },
+  {
+    "Ticker": "CHTR",
+    "Name": "Charter Communications, Inc.",
+    "Short % of Float": 0.2619,
+    "Shares Short": 16657315,
+    "Current Price": 232.24,
+    "Dollar Value Shorted": 3868494835.6000004
+  },
+  {
+    "Ticker": "KO",
+    "Name": "Coca-Cola Company (The)",
+    "Short % of Float": 0.0095999995,
+    "Shares Short": 41189418,
+    "Current Price": 77.04,
+    "Dollar Value Shorted": 3173232762.7200003
+  },
+  {
+    "Ticker": "CTSH",
+    "Name": "Cognizant Technology Solutions ",
+    "Short % of Float": 0.081499994,
+    "Shares Short": 29627896,
+    "Current Price": 66.26,
+    "Dollar Value Shorted": 1963144388.96
+  },
+  {
+    "Ticker": "CMS",
+    "Name": "CMS Energy Corporation",
+    "Short % of Float": 0.0541,
+    "Shares Short": 14623721,
+    "Current Price": 77.16,
+    "Dollar Value Shorted": 1128366312.36
+  },
+  {
+    "Ticker": "CL",
+    "Name": "Colgate-Palmolive Company",
+    "Short % of Float": 0.0231,
+    "Shares Short": 16589065,
+    "Current Price": 93.56,
+    "Dollar Value Shorted": 1552072921.4
+  },
+  {
+    "Ticker": "COIN",
+    "Name": "Coinbase Global, Inc. - 3",
+    "Short % of Float": 0.1351,
+    "Shares Short": 26559407,
+    "Current Price": 197.22,
+    "Dollar Value Shorted": 5238046248.54
+  },
+  {
+    "Ticker": "FIX",
+    "Name": "Comfort Systems USA, Inc.",
+    "Short % of Float": 0.0249,
+    "Shares Short": 646648,
+    "Current Price": 1279.06,
+    "Dollar Value Shorted": 827101590.88
+  },
+  {
+    "Ticker": "COP",
+    "Name": "ConocoPhillips",
+    "Short % of Float": 0.0167,
+    "Shares Short": 20337546,
+    "Current Price": 117.07,
+    "Dollar Value Shorted": 2380916510.22
+  },
+  {
+    "Ticker": "ED",
+    "Name": "Consolidated Edison, Inc.",
+    "Short % of Float": 0.0307,
+    "Shares Short": 8525120,
+    "Current Price": 112.28,
+    "Dollar Value Shorted": 957200473.6
+  },
+  {
+    "Ticker": "CAG",
+    "Name": "ConAgra Brands, Inc.",
+    "Short % of Float": 0.086899996,
+    "Shares Short": 32129477,
+    "Current Price": 19.02,
+    "Dollar Value Shorted": 611102652.54
+  },
+  {
+    "Ticker": "STZ",
+    "Name": "Constellation Brands, Inc.",
+    "Short % of Float": 0.0507,
+    "Shares Short": 8430113,
+    "Current Price": 146.47,
+    "Dollar Value Shorted": 1234758651.11
+  },
+  {
+    "Ticker": "CMCSA",
+    "Name": "Comcast Corporation",
+    "Short % of Float": 0.023699999,
+    "Shares Short": 84443427,
+    "Current Price": 31.91,
+    "Dollar Value Shorted": 2694589755.57
+  },
+  {
+    "Ticker": "CEG",
+    "Name": "Constellation Energy Corporatio",
+    "Short % of Float": 0.024500001,
+    "Shares Short": 7943497,
+    "Current Price": 319.06,
+    "Dollar Value Shorted": 2534452152.82
+  },
+  {
+    "Ticker": "CPRT",
+    "Name": "Copart, Inc.",
+    "Short % of Float": 0.0432,
+    "Shares Short": 33934044,
+    "Current Price": 37.74,
+    "Dollar Value Shorted": 1280670820.5600002
+  },
+  {
+    "Ticker": "COO",
+    "Name": "The Cooper Companies, Inc.",
+    "Short % of Float": 0.0365,
+    "Shares Short": 6899411,
+    "Current Price": 76.55,
+    "Dollar Value Shorted": 528149912.04999995
+  },
+  {
+    "Ticker": "GLW",
+    "Name": "Corning Incorporated",
+    "Short % of Float": 0.0198,
+    "Shares Short": 14970324,
+    "Current Price": 123.29,
+    "Dollar Value Shorted": 1845691245.96
+  },
+  {
+    "Ticker": "CTVA",
+    "Name": "Corteva, Inc.",
+    "Short % of Float": 0.0163,
+    "Shares Short": 9661064,
+    "Current Price": 76.96,
+    "Dollar Value Shorted": 743515485.4399999
+  },
+  {
+    "Ticker": "CSGP",
+    "Name": "CoStar Group, Inc.",
+    "Short % of Float": 0.054,
+    "Shares Short": 19341189,
+    "Current Price": 48.38,
+    "Dollar Value Shorted": 935726723.82
+  },
+  {
+    "Ticker": "COST",
+    "Name": "Costco Wholesale Corporation",
+    "Short % of Float": 0.015800001,
+    "Shares Short": 7002026,
+    "Current Price": 998.1,
+    "Dollar Value Shorted": 6988722150.6
+  },
+  {
+    "Ticker": "CPAY",
+    "Name": "Corpay, Inc.",
+    "Short % of Float": 0.0341,
+    "Shares Short": 2034523,
+    "Current Price": 314.4,
+    "Dollar Value Shorted": 639654031.1999999
+  },
+  {
+    "Ticker": "CRH",
+    "Name": "CRH PLC",
+    "Short % of Float": 0.0199,
+    "Shares Short": 13251626,
+    "Current Price": 106.41,
+    "Dollar Value Shorted": 1410105522.6599998
+  },
+  {
+    "Ticker": "CTRA",
+    "Name": "Coterra Energy Inc.",
+    "Short % of Float": 0.0326,
+    "Shares Short": 21564860,
+    "Current Price": 31.03,
+    "Dollar Value Shorted": 669157605.8000001
+  },
+  {
+    "Ticker": "CCI",
+    "Name": "Crown Castle Inc.",
+    "Short % of Float": 0.028299998,
+    "Shares Short": 9281696,
+    "Current Price": 90.43,
+    "Dollar Value Shorted": 839343769.2800001
+  },
+  {
+    "Ticker": "CSX",
+    "Name": "CSX Corporation",
+    "Short % of Float": 0.0167,
+    "Shares Short": 31043372,
+    "Current Price": 39.95,
+    "Dollar Value Shorted": 1240182711.4
+  },
+  {
+    "Ticker": "CVS",
+    "Name": "CVS Health Corporation",
+    "Short % of Float": 0.013099999,
+    "Shares Short": 16528176,
+    "Current Price": 77.92,
+    "Dollar Value Shorted": 1287875473.92
+  },
+  {
+    "Ticker": "CMI",
+    "Name": "Cummins Inc.",
+    "Short % of Float": 0.0126,
+    "Shares Short": 1508420,
+    "Current Price": 539.23,
+    "Dollar Value Shorted": 813385316.6
+  },
+  {
+    "Ticker": "CRWD",
+    "Name": "CrowdStrike Holdings, Inc.",
+    "Short % of Float": 0.0304,
+    "Shares Short": 7442289,
+    "Current Price": 428.99,
+    "Dollar Value Shorted": 3192667558.11
+  },
+  {
+    "Ticker": "DDOG",
+    "Name": "Datadog, Inc.",
+    "Short % of Float": 0.0276,
+    "Shares Short": 8917828,
+    "Current Price": 125.75,
+    "Dollar Value Shorted": 1121416871.0
+  },
+  {
+    "Ticker": "DHR",
+    "Name": "Danaher Corporation",
+    "Short % of Float": 0.0112,
+    "Shares Short": 7067378,
+    "Current Price": 195.5,
+    "Dollar Value Shorted": 1381672399.0
+  },
+  {
+    "Ticker": "DRI",
+    "Name": "Darden Restaurants, Inc.",
+    "Short % of Float": 0.0656,
+    "Shares Short": 5651805,
+    "Current Price": 203.18,
+    "Dollar Value Shorted": 1148333739.9
+  },
+  {
+    "Ticker": "DVN",
+    "Name": "Devon Energy Corporation",
+    "Short % of Float": 0.0353,
+    "Shares Short": 19141818,
+    "Current Price": 44.48,
+    "Dollar Value Shorted": 851428064.64
+  },
+  {
+    "Ticker": "DAL",
+    "Name": "Delta Air Lines, Inc.",
+    "Short % of Float": 0.0252,
+    "Shares Short": 14575194,
+    "Current Price": 59.01,
+    "Dollar Value Shorted": 860082197.9399999
+  },
+  {
+    "Ticker": "DVA",
+    "Name": "DaVita Inc.",
+    "Short % of Float": 0.21450001,
+    "Shares Short": 6556079,
+    "Current Price": 150.76,
+    "Dollar Value Shorted": 988394470.04
+  },
+  {
+    "Ticker": "DXCM",
+    "Name": "DexCom, Inc.",
+    "Short % of Float": 0.048899997,
+    "Shares Short": 14607048,
+    "Current Price": 68.1,
+    "Dollar Value Shorted": 994739968.8
+  },
+  {
+    "Ticker": "FANG",
+    "Name": "Diamondback Energy, Inc.",
+    "Short % of Float": 0.051,
+    "Shares Short": 9216192,
+    "Current Price": 180.54,
+    "Dollar Value Shorted": 1663891303.6799998
+  },
+  {
+    "Ticker": "DE",
+    "Name": "Deere & Company",
+    "Short % of Float": 0.0234,
+    "Shares Short": 6346495,
+    "Current Price": 589.77,
+    "Dollar Value Shorted": 3742972356.15
+  },
+  {
+    "Ticker": "DECK",
+    "Name": "Deckers Outdoor Corporation",
+    "Short % of Float": 0.0383,
+    "Shares Short": 3851247,
+    "Current Price": 104.25,
+    "Dollar Value Shorted": 401492499.75
+  },
+  {
+    "Ticker": "DLTR",
+    "Name": "Dollar Tree, Inc.",
+    "Short % of Float": 0.0713,
+    "Shares Short": 11605184,
+    "Current Price": 115.79,
+    "Dollar Value Shorted": 1343764255.3600001
+  },
+  {
+    "Ticker": "DELL",
+    "Name": "Dell Technologies Inc.",
+    "Short % of Float": 0.0933,
+    "Shares Short": 27449476,
+    "Current Price": 146.48,
+    "Dollar Value Shorted": 4020799244.4799995
+  },
+  {
+    "Ticker": "D",
+    "Name": "Dominion Energy, Inc.",
+    "Short % of Float": 0.0355,
+    "Shares Short": 28031319,
+    "Current Price": 63.24,
+    "Dollar Value Shorted": 1772700613.56
+  },
+  {
+    "Ticker": "DPZ",
+    "Name": "Domino's Pizza Inc",
+    "Short % of Float": 0.0712,
+    "Shares Short": 2109866,
+    "Current Price": 408.41,
+    "Dollar Value Shorted": 861690373.0600001
+  },
+  {
+    "Ticker": "DG",
+    "Name": "Dollar General Corporation",
+    "Short % of Float": 0.0359,
+    "Shares Short": 6994093,
+    "Current Price": 146.31,
+    "Dollar Value Shorted": 1023305746.83
+  },
+  {
+    "Ticker": "DLR",
+    "Name": "Digital Realty Trust, Inc.",
+    "Short % of Float": 0.039,
+    "Shares Short": 10022520,
+    "Current Price": 176.19,
+    "Dollar Value Shorted": 1765867798.8
+  },
+  {
+    "Ticker": "DASH",
+    "Name": "DoorDash, Inc.",
+    "Short % of Float": 0.028800001,
+    "Shares Short": 11748736,
+    "Current Price": 179.17,
+    "Dollar Value Shorted": 2105021029.12
+  },
+  {
+    "Ticker": "DHI",
+    "Name": "D.R. Horton, Inc.",
+    "Short % of Float": 0.0706,
+    "Shares Short": 15708376,
+    "Current Price": 147.26,
+    "Dollar Value Shorted": 2313215449.7599998
+  },
+  {
+    "Ticker": "DOV",
+    "Name": "Dover Corporation",
+    "Short % of Float": 0.0297,
+    "Shares Short": 3515807,
+    "Current Price": 208.42,
+    "Dollar Value Shorted": 732764494.9399999
+  },
+  {
+    "Ticker": "DTE",
+    "Name": "DTE Energy Company",
+    "Short % of Float": 0.0229,
+    "Shares Short": 4166565,
+    "Current Price": 150.13,
+    "Dollar Value Shorted": 625526403.4499999
+  },
+  {
+    "Ticker": "DUK",
+    "Name": "Duke Energy Corporation (Holdin",
+    "Short % of Float": 0.0221,
+    "Shares Short": 17167846,
+    "Current Price": 132.5,
+    "Dollar Value Shorted": 2274739595.0
+  },
+  {
+    "Ticker": "DOW",
+    "Name": "Dow Inc.",
+    "Short % of Float": 0.0398,
+    "Shares Short": 25283128,
+    "Current Price": 33.28,
+    "Dollar Value Shorted": 841422499.84
+  },
+  {
+    "Ticker": "DD",
+    "Name": "DuPont de Nemours, Inc.",
+    "Short % of Float": 0.0234,
+    "Shares Short": 8440917,
+    "Current Price": 45.26,
+    "Dollar Value Shorted": 382035903.41999996
+  },
+  {
+    "Ticker": "EBAY",
+    "Name": "eBay Inc.",
+    "Short % of Float": 0.0324,
+    "Shares Short": 12530611,
+    "Current Price": 92.71,
+    "Dollar Value Shorted": 1161712945.81
+  },
+  {
+    "Ticker": "ETN",
+    "Name": "Eaton Corporation, PLC",
+    "Short % of Float": 0.0201,
+    "Shares Short": 7797185,
+    "Current Price": 347.75,
+    "Dollar Value Shorted": 2711471083.75
+  },
+  {
+    "Ticker": "EW",
+    "Name": "Edwards Lifesciences Corporatio",
+    "Short % of Float": 0.0155,
+    "Shares Short": 7902820,
+    "Current Price": 81.64,
+    "Dollar Value Shorted": 645186224.8
+  },
+  {
+    "Ticker": "ECL",
+    "Name": "Ecolab Inc.",
+    "Short % of Float": 0.0128,
+    "Shares Short": 3161138,
+    "Current Price": 282.69,
+    "Dollar Value Shorted": 893622101.22
+  },
+  {
+    "Ticker": "EA",
+    "Name": "Electronic Arts Inc.",
+    "Short % of Float": 0.061,
+    "Shares Short": 13456257,
+    "Current Price": 198.0,
+    "Dollar Value Shorted": 2664338886.0
+  },
+  {
+    "Ticker": "ELV",
+    "Name": "Elevance Health, Inc.",
+    "Short % of Float": 0.0211,
+    "Shares Short": 4649830,
+    "Current Price": 289.64,
+    "Dollar Value Shorted": 1346776761.2
+  },
+  {
+    "Ticker": "EMR",
+    "Name": "Emerson Electric Company",
+    "Short % of Float": 0.0299,
+    "Shares Short": 16753986,
+    "Current Price": 138.36,
+    "Dollar Value Shorted": 2318081502.96
+  },
+  {
+    "Ticker": "EIX",
+    "Name": "Edison International",
+    "Short % of Float": 0.041100003,
+    "Shares Short": 13778468,
+    "Current Price": 71.76,
+    "Dollar Value Shorted": 988742863.6800001
+  },
+  {
+    "Ticker": "EOG",
+    "Name": "EOG Resources, Inc.",
+    "Short % of Float": 0.0287,
+    "Shares Short": 15380148,
+    "Current Price": 131.41,
+    "Dollar Value Shorted": 2021105248.6799998
+  },
+  {
+    "Ticker": "EPAM",
+    "Name": "EPAM Systems, Inc.",
+    "Short % of Float": 0.085200004,
+    "Shares Short": 3866917,
+    "Current Price": 145.87,
+    "Dollar Value Shorted": 564067182.79
+  },
+  {
+    "Ticker": "EME",
+    "Name": "EMCOR Group, Inc.",
+    "Short % of Float": 0.026300002,
+    "Shares Short": 883982,
+    "Current Price": 705.79,
+    "Dollar Value Shorted": 623905655.78
+  },
+  {
+    "Ticker": "EQT",
+    "Name": "EQT Corporation",
+    "Short % of Float": 0.036199998,
+    "Shares Short": 22482238,
+    "Current Price": 61.96,
+    "Dollar Value Shorted": 1392999466.48
+  },
+  {
+    "Ticker": "EQIX",
+    "Name": "Equinix, Inc.",
+    "Short % of Float": 0.0307,
+    "Shares Short": 2630331,
+    "Current Price": 937.2,
+    "Dollar Value Shorted": 2465146213.2000003
+  },
+  {
+    "Ticker": "EFX",
+    "Name": "Equifax, Inc.",
+    "Short % of Float": 0.0504,
+    "Shares Short": 5345609,
+    "Current Price": 207.83,
+    "Dollar Value Shorted": 1110977918.47
+  },
+  {
+    "Ticker": "EQR",
+    "Name": "Equity Residential",
+    "Short % of Float": 0.030199999,
+    "Shares Short": 8366095,
+    "Current Price": 62.72,
+    "Dollar Value Shorted": 524721478.4
+  },
+  {
+    "Ticker": "ERIE",
+    "Name": "Erie Indemnity Company",
+    "Short % of Float": 0.0881,
+    "Shares Short": 2206498,
+    "Current Price": 259.85,
+    "Dollar Value Shorted": 573358505.3000001
+  },
+  {
+    "Ticker": "ETR",
+    "Name": "Entergy Corporation",
+    "Short % of Float": 0.033099998,
+    "Shares Short": 13234949,
+    "Current Price": 104.7,
+    "Dollar Value Shorted": 1385699160.3
+  },
+  {
+    "Ticker": "EL",
+    "Name": "Estee Lauder Companies, Inc. (T",
+    "Short % of Float": 0.0375,
+    "Shares Short": 8241337,
+    "Current Price": 92.72,
+    "Dollar Value Shorted": 764136766.64
+  },
+  {
+    "Ticker": "EVRG",
+    "Name": "Evergy, Inc.",
+    "Short % of Float": 0.0671,
+    "Shares Short": 13169149,
+    "Current Price": 83.36,
+    "Dollar Value Shorted": 1097780260.64
+  },
+  {
+    "Ticker": "EXE",
+    "Name": "Expand Energy Corporation",
+    "Short % of Float": 0.0341,
+    "Shares Short": 7285730,
+    "Current Price": 106.84,
+    "Dollar Value Shorted": 778407393.2
+  },
+  {
+    "Ticker": "ESS",
+    "Name": "Essex Property Trust, Inc.",
+    "Short % of Float": 0.034,
+    "Shares Short": 1608543,
+    "Current Price": 255.13,
+    "Dollar Value Shorted": 410387575.59
+  },
+  {
+    "Ticker": "ES",
+    "Name": "Eversource Energy (D/B/A)",
+    "Short % of Float": 0.0225,
+    "Shares Short": 6595114,
+    "Current Price": 74.44,
+    "Dollar Value Shorted": 490940286.15999997
+  },
+  {
+    "Ticker": "EXR",
+    "Name": "Extra Space Storage Inc",
+    "Short % of Float": 0.0325,
+    "Shares Short": 5020180,
+    "Current Price": 146.62,
+    "Dollar Value Shorted": 736058791.6
+  },
+  {
+    "Ticker": "XOM",
+    "Name": "Exxon Mobil Corporation",
+    "Short % of Float": 0.016,
+    "Shares Short": 59561175,
+    "Current Price": 151.21,
+    "Dollar Value Shorted": 9006245271.75
+  },
+  {
+    "Ticker": "EXPE",
+    "Name": "Expedia Group, Inc.",
+    "Short % of Float": 0.0689,
+    "Shares Short": 6957259,
+    "Current Price": 249.62,
+    "Dollar Value Shorted": 1736670991.58
+  },
+  {
+    "Ticker": "EG",
+    "Name": "Everest Group, Ltd.",
+    "Short % of Float": 0.0253,
+    "Shares Short": 881043,
+    "Current Price": 334.11,
+    "Dollar Value Shorted": 294365276.73
+  },
+  {
+    "Ticker": "EXC",
+    "Name": "Exelon Corporation",
+    "Short % of Float": 0.049099997,
+    "Shares Short": 39172791,
+    "Current Price": 49.36,
+    "Dollar Value Shorted": 1933568963.76
+  },
+  {
+    "Ticker": "FDS",
+    "Name": "FactSet Research Systems Inc.",
+    "Short % of Float": 0.103,
+    "Shares Short": 3345204,
+    "Current Price": 225.87,
+    "Dollar Value Shorted": 755581227.48
+  },
+  {
+    "Ticker": "FICO",
+    "Name": "Fair Isaac Corporation",
+    "Short % of Float": 0.0673,
+    "Shares Short": 1349454,
+    "Current Price": 1476.0,
+    "Dollar Value Shorted": 1991794104.0
+  },
+  {
+    "Ticker": "EXPD",
+    "Name": "Expeditors International of Was",
+    "Short % of Float": 0.048299998,
+    "Shares Short": 4867715,
+    "Current Price": 146.86,
+    "Dollar Value Shorted": 714872624.9000001
+  },
+  {
+    "Ticker": "FFIV",
+    "Name": "F5, Inc.",
+    "Short % of Float": 0.049099997,
+    "Shares Short": 2093014,
+    "Current Price": 286.22,
+    "Dollar Value Shorted": 599062467.08
+  },
+  {
+    "Ticker": "FDX",
+    "Name": "FedEx Corporation",
+    "Short % of Float": 0.0149,
+    "Shares Short": 3498116,
+    "Current Price": 359.1,
+    "Dollar Value Shorted": 1256173455.6000001
+  },
+  {
+    "Ticker": "FRT",
+    "Name": "Federal Realty Investment Trust",
+    "Short % of Float": 0.032899998,
+    "Shares Short": 2403747,
+    "Current Price": 107.55,
+    "Dollar Value Shorted": 258522989.85
+  },
+  {
+    "Ticker": "FAST",
+    "Name": "Fastenal Company",
+    "Short % of Float": 0.033,
+    "Shares Short": 33154548,
+    "Current Price": 46.46,
+    "Dollar Value Shorted": 1540360300.08
+  },
+  {
+    "Ticker": "FITB",
+    "Name": "Fifth Third Bancorp",
+    "Short % of Float": 0.0542,
+    "Shares Short": 43978782,
+    "Current Price": 47.3,
+    "Dollar Value Shorted": 2080196388.6
+  },
+  {
+    "Ticker": "FSLR",
+    "Name": "First Solar, Inc.",
+    "Short % of Float": 0.0983,
+    "Shares Short": 8211834,
+    "Current Price": 189.21,
+    "Dollar Value Shorted": 1553761111.14
+  },
+  {
+    "Ticker": "FE",
+    "Name": "FirstEnergy Corp.",
+    "Short % of Float": 0.064899996,
+    "Shares Short": 28132792,
+    "Current Price": 50.84,
+    "Dollar Value Shorted": 1430271145.2800002
+  },
+  {
+    "Ticker": "FIS",
+    "Name": "Fidelity National Information S",
+    "Short % of Float": 0.0279,
+    "Shares Short": 12504103,
+    "Current Price": 51.49,
+    "Dollar Value Shorted": 643836263.47
+  },
+  {
+    "Ticker": "F",
+    "Name": "Ford Motor Company",
+    "Short % of Float": 0.0484,
+    "Shares Short": 169897666,
+    "Current Price": 12.15,
+    "Dollar Value Shorted": 2064256641.9
+  },
+  {
+    "Ticker": "FISV",
+    "Name": "Fiserv, Inc.",
+    "Short % of Float": 0.0,
+    "Shares Short": 0,
+    "Current Price": 63.1,
+    "Dollar Value Shorted": 0.0
+  },
+  {
+    "Ticker": "FOXA",
+    "Name": "Fox Corporation",
+    "Short % of Float": 0.1876,
+    "Shares Short": 31909428,
+    "Current Price": 59.78,
+    "Dollar Value Shorted": 1907545605.8400002
+  },
+  {
+    "Ticker": "GRMN",
+    "Name": "Garmin Ltd.",
+    "Short % of Float": 0.0248,
+    "Shares Short": 4031945,
+    "Current Price": 243.48,
+    "Dollar Value Shorted": 981697968.5999999
+  },
+  {
+    "Ticker": "FTNT",
+    "Name": "Fortinet, Inc.",
+    "Short % of Float": 0.0276,
+    "Shares Short": 16939807,
+    "Current Price": 83.67,
+    "Dollar Value Shorted": 1417353651.69
+  },
+  {
+    "Ticker": "FTV",
+    "Name": "Fortive Corporation",
+    "Short % of Float": 0.0638,
+    "Shares Short": 14698007,
+    "Current Price": 57.39,
+    "Dollar Value Shorted": 843518621.73
+  },
+  {
+    "Ticker": "GE",
+    "Name": "GE Aerospace",
+    "Short % of Float": 0.0148,
+    "Shares Short": 15454251,
+    "Current Price": 323.11,
+    "Dollar Value Shorted": 4993423040.610001
+  },
+  {
+    "Ticker": "IT",
+    "Name": "Gartner, Inc.",
+    "Short % of Float": 0.1117,
+    "Shares Short": 6697151,
+    "Current Price": 169.0,
+    "Dollar Value Shorted": 1131818519.0
+  },
+  {
+    "Ticker": "BEN",
+    "Name": "Franklin Resources, Inc.",
+    "Short % of Float": 0.0638,
+    "Shares Short": 25489737,
+    "Current Price": 26.24,
+    "Dollar Value Shorted": 668850698.88
+  },
+  {
+    "Ticker": "GEV",
+    "Name": "GE Vernova Inc.",
+    "Short % of Float": 0.0225,
+    "Shares Short": 6060018,
+    "Current Price": 789.23,
+    "Dollar Value Shorted": 4782748006.14
+  },
+  {
+    "Ticker": "FCX",
+    "Name": "Freeport-McMoRan, Inc.",
+    "Short % of Float": 0.023699999,
+    "Shares Short": 33939235,
+    "Current Price": 59.36,
+    "Dollar Value Shorted": 2014632989.6
+  },
+  {
+    "Ticker": "GNRC",
+    "Name": "Generac Holdlings Inc.",
+    "Short % of Float": 0.0706,
+    "Shares Short": 3543939,
+    "Current Price": 204.02,
+    "Dollar Value Shorted": 723034434.7800001
+  },
+  {
+    "Ticker": "GD",
+    "Name": "General Dynamics Corporation",
+    "Short % of Float": 0.011,
+    "Shares Short": 2651768,
+    "Current Price": 363.49,
+    "Dollar Value Shorted": 963891150.32
+  },
+  {
+    "Ticker": "GM",
+    "Name": "General Motors Company",
+    "Short % of Float": 0.032,
+    "Shares Short": 25254786,
+    "Current Price": 75.21,
+    "Dollar Value Shorted": 1899412455.06
+  },
+  {
+    "Ticker": "GIS",
+    "Name": "General Mills, Inc.",
+    "Short % of Float": 0.081099994,
+    "Shares Short": 33217608,
+    "Current Price": 44.29,
+    "Dollar Value Shorted": 1471207858.32
+  },
+  {
+    "Ticker": "FOX",
+    "Name": "Fox Corporation",
+    "Short % of Float": 0.082200006,
+    "Shares Short": 11450919,
+    "Current Price": 54.31,
+    "Dollar Value Shorted": 621899410.89
+  },
+  {
+    "Ticker": "GPC",
+    "Name": "Genuine Parts Company",
+    "Short % of Float": 0.030199999,
+    "Shares Short": 4136980,
+    "Current Price": 115.52,
+    "Dollar Value Shorted": 477903929.59999996
+  },
+  {
+    "Ticker": "GEHC",
+    "Name": "GE HealthCare Technologies Inc.",
+    "Short % of Float": 0.029000001,
+    "Shares Short": 10007297,
+    "Current Price": 74.27,
+    "Dollar Value Shorted": 743241948.1899999
+  },
+  {
+    "Ticker": "GEN",
+    "Name": "Gen Digital Inc.",
+    "Short % of Float": 0.0471,
+    "Shares Short": 22518645,
+    "Current Price": 22.61,
+    "Dollar Value Shorted": 509146563.45
+  },
+  {
+    "Ticker": "GILD",
+    "Name": "Gilead Sciences, Inc.",
+    "Short % of Float": 0.0176,
+    "Shares Short": 21892924,
+    "Current Price": 143.93,
+    "Dollar Value Shorted": 3151048551.32
+  },
+  {
+    "Ticker": "GPN",
+    "Name": "Global Payments Inc.",
+    "Short % of Float": 0.045100003,
+    "Shares Short": 12565607,
+    "Current Price": 76.4,
+    "Dollar Value Shorted": 960012374.8000001
+  },
+  {
+    "Ticker": "GDDY",
+    "Name": "GoDaddy Inc.",
+    "Short % of Float": 0.061100002,
+    "Shares Short": 6268810,
+    "Current Price": 93.95,
+    "Dollar Value Shorted": 588954699.5
+  },
+  {
+    "Ticker": "GS",
+    "Name": "Goldman Sachs Group, Inc. (The)",
+    "Short % of Float": 0.020499999,
+    "Shares Short": 6108767,
+    "Current Price": 821.42,
+    "Dollar Value Shorted": 5017863389.139999
+  },
+  {
+    "Ticker": "HIG",
+    "Name": "The Hartford Insurance Group, I",
+    "Short % of Float": 0.0276,
+    "Shares Short": 5739817,
+    "Current Price": 139.25,
+    "Dollar Value Shorted": 799269517.25
+  },
+  {
+    "Ticker": "HAL",
+    "Name": "Halliburton Company",
+    "Short % of Float": 0.0608,
+    "Shares Short": 38168324,
+    "Current Price": 34.05,
+    "Dollar Value Shorted": 1299631432.1999998
+  },
+  {
+    "Ticker": "HCA",
+    "Name": "HCA Healthcare, Inc.",
+    "Short % of Float": 0.0257,
+    "Shares Short": 3924877,
+    "Current Price": 532.81,
+    "Dollar Value Shorted": 2091213714.37
+  },
+  {
+    "Ticker": "HAS",
+    "Name": "Hasbro, Inc.",
+    "Short % of Float": 0.0335,
+    "Shares Short": 3649512,
+    "Current Price": 94.49,
+    "Dollar Value Shorted": 344842388.88
+  },
+  {
+    "Ticker": "DOC",
+    "Name": "Healthpeak Properties, Inc.",
+    "Short % of Float": 0.0596,
+    "Shares Short": 31246577,
+    "Current Price": 17.28,
+    "Dollar Value Shorted": 539940850.5600001
+  },
+  {
+    "Ticker": "HSY",
+    "Name": "The Hershey Company",
+    "Short % of Float": 0.0712,
+    "Shares Short": 8991712,
+    "Current Price": 224.99,
+    "Dollar Value Shorted": 2023045282.88
+  },
+  {
+    "Ticker": "GL",
+    "Name": "Globe Life Inc.",
+    "Short % of Float": 0.0228,
+    "Shares Short": 1541098,
+    "Current Price": 142.18,
+    "Dollar Value Shorted": 219113313.64000002
+  },
+  {
+    "Ticker": "HPE",
+    "Name": "Hewlett Packard Enterprise Comp",
+    "Short % of Float": 0.076799996,
+    "Shares Short": 89720693,
+    "Current Price": 21.13,
+    "Dollar Value Shorted": 1895798243.09
+  },
+  {
+    "Ticker": "HLT",
+    "Name": "Hilton Worldwide Holdings Inc.",
+    "Short % of Float": 0.0255,
+    "Shares Short": 5075097,
+    "Current Price": 298.64,
+    "Dollar Value Shorted": 1515626968.08
+  },
+  {
+    "Ticker": "HOLX",
+    "Name": "Hologic, Inc.",
+    "Short % of Float": 0.0249,
+    "Shares Short": 4834145,
+    "Current Price": 75.74,
+    "Dollar Value Shorted": 366138142.29999995
+  },
+  {
+    "Ticker": "HRL",
+    "Name": "Hormel Foods Corporation",
+    "Short % of Float": 0.0661,
+    "Shares Short": 19300812,
+    "Current Price": 24.42,
+    "Dollar Value Shorted": 471325829.04
+  },
+  {
+    "Ticker": "HWM",
+    "Name": "Howmet Aerospace Inc.",
+    "Short % of Float": 0.0356,
+    "Shares Short": 11001914,
+    "Current Price": 250.13,
+    "Dollar Value Shorted": 2751908748.82
+  },
+  {
+    "Ticker": "HSIC",
+    "Name": "Henry Schein, Inc.",
+    "Short % of Float": 0.047,
+    "Shares Short": 4779133,
+    "Current Price": 77.6,
+    "Dollar Value Shorted": 370860720.79999995
+  },
+  {
+    "Ticker": "HST",
+    "Name": "Host Hotels & Resorts, Inc.",
+    "Short % of Float": 0.049200002,
+    "Shares Short": 24056440,
+    "Current Price": 19.23,
+    "Dollar Value Shorted": 462605341.2
+  },
+  {
+    "Ticker": "HPQ",
+    "Name": "HP Inc.",
+    "Short % of Float": 0.14140001,
+    "Shares Short": 94657135,
+    "Current Price": 19.46,
+    "Dollar Value Shorted": 1842027847.1000001
+  },
+  {
+    "Ticker": "HON",
+    "Name": "Honeywell International Inc.",
+    "Short % of Float": 0.0176,
+    "Shares Short": 11157787,
+    "Current Price": 235.29,
+    "Dollar Value Shorted": 2625315703.23
+  },
+  {
+    "Ticker": "HD",
+    "Name": "Home Depot, Inc. (The)",
+    "Short % of Float": 0.010199999,
+    "Shares Short": 10153045,
+    "Current Price": 357.92,
+    "Dollar Value Shorted": 3633977866.4
+  },
+  {
+    "Ticker": "HUBB",
+    "Name": "Hubbell Inc",
+    "Short % of Float": 0.0542,
+    "Shares Short": 2505421,
+    "Current Price": 471.54,
+    "Dollar Value Shorted": 1181406218.3400002
+  },
+  {
+    "Ticker": "HUM",
+    "Name": "Humana Inc.",
+    "Short % of Float": 0.0484,
+    "Shares Short": 5207601,
+    "Current Price": 179.15,
+    "Dollar Value Shorted": 932941719.15
+  },
+  {
+    "Ticker": "HII",
+    "Name": "Huntington Ingalls Industries, ",
+    "Short % of Float": 0.0421,
+    "Shares Short": 1431218,
+    "Current Price": 429.11,
+    "Dollar Value Shorted": 614149955.98
+  },
+  {
+    "Ticker": "IBM",
+    "Name": "International Business Machines",
+    "Short % of Float": 0.0234,
+    "Shares Short": 19654683,
+    "Current Price": 258.85,
+    "Dollar Value Shorted": 5087614694.55
+  },
+  {
+    "Ticker": "HBAN",
+    "Name": "Huntington Bancshares Incorpora",
+    "Short % of Float": 0.04,
+    "Shares Short": 73928884,
+    "Current Price": 16.31,
+    "Dollar Value Shorted": 1205780098.04
+  },
+  {
+    "Ticker": "ITW",
+    "Name": "Illinois Tool Works Inc.",
+    "Short % of Float": 0.031,
+    "Shares Short": 8899669,
+    "Current Price": 277.16,
+    "Dollar Value Shorted": 2466632260.0400004
+  },
+  {
+    "Ticker": "IEX",
+    "Name": "IDEX Corporation",
+    "Short % of Float": 0.0317,
+    "Shares Short": 2060105,
+    "Current Price": 197.9,
+    "Dollar Value Shorted": 407694779.5
+  },
+  {
+    "Ticker": "IR",
+    "Name": "Ingersoll Rand Inc.",
+    "Short % of Float": 0.053400002,
+    "Shares Short": 16114158,
+    "Current Price": 86.43,
+    "Dollar Value Shorted": 1392746675.94
+  },
+  {
+    "Ticker": "IBKR",
+    "Name": "Interactive Brokers Group, Inc.",
+    "Short % of Float": 0.026300002,
+    "Shares Short": 11390874,
+    "Current Price": 66.7,
+    "Dollar Value Shorted": 759771295.8000001
+  },
+  {
+    "Ticker": "INCY",
+    "Name": "Incyte Corporation",
+    "Short % of Float": 0.0775,
+    "Shares Short": 11008853,
+    "Current Price": 95.94,
+    "Dollar Value Shorted": 1056189356.8199999
+  },
+  {
+    "Ticker": "IDXX",
+    "Name": "IDEXX Laboratories, Inc.",
+    "Short % of Float": 0.028800001,
+    "Shares Short": 1747006,
+    "Current Price": 608.41,
+    "Dollar Value Shorted": 1062895920.4599999
+  },
+  {
+    "Ticker": "PODD",
+    "Name": "Insulet Corporation",
+    "Short % of Float": 0.0327,
+    "Shares Short": 1511612,
+    "Current Price": 237.01,
+    "Dollar Value Shorted": 358267160.12
+  },
+  {
+    "Ticker": "INTU",
+    "Name": "Intuit Inc.",
+    "Short % of Float": 0.0341,
+    "Shares Short": 8305847,
+    "Current Price": 481.17,
+    "Dollar Value Shorted": 3996524400.9900002
+  },
+  {
+    "Ticker": "IFF",
+    "Name": "International Flavors & Fragran",
+    "Short % of Float": 0.0475,
+    "Shares Short": 9161983,
+    "Current Price": 73.77,
+    "Dollar Value Shorted": 675879485.91
+  },
+  {
+    "Ticker": "ICE",
+    "Name": "Intercontinental Exchange Inc.",
+    "Short % of Float": 0.0139999995,
+    "Shares Short": 7856656,
+    "Current Price": 166.19,
+    "Dollar Value Shorted": 1305697660.6399999
+  },
+  {
+    "Ticker": "IP",
+    "Name": "International Paper Company",
+    "Short % of Float": 0.1288,
+    "Shares Short": 51836899,
+    "Current Price": 39.53,
+    "Dollar Value Shorted": 2049112617.47
+  },
+  {
+    "Ticker": "INTC",
+    "Name": "Intel Corporation",
+    "Short % of Float": 0.023599999,
+    "Shares Short": 117811424,
+    "Current Price": 43.42,
+    "Dollar Value Shorted": 5115372030.08
+  },
+  {
+    "Ticker": "ISRG",
+    "Name": "Intuitive Surgical, Inc.",
+    "Short % of Float": 0.0187,
+    "Shares Short": 6602962,
+    "Current Price": 490.16,
+    "Dollar Value Shorted": 3236507853.92
+  },
+  {
+    "Ticker": "IVZ",
+    "Name": "Invesco Ltd",
+    "Short % of Float": 0.0616,
+    "Shares Short": 15602872,
+    "Current Price": 23.67,
+    "Dollar Value Shorted": 369319980.24
+  },
+  {
+    "Ticker": "IQV",
+    "Name": "IQVIA Holdings, Inc.",
+    "Short % of Float": 0.0349,
+    "Shares Short": 5088012,
+    "Current Price": 174.49,
+    "Dollar Value Shorted": 887807213.88
+  },
+  {
+    "Ticker": "IRM",
+    "Name": "Iron Mountain Incorporated (Del",
+    "Short % of Float": 0.036,
+    "Shares Short": 7821452,
+    "Current Price": 105.18,
+    "Dollar Value Shorted": 822660321.36
+  },
+  {
+    "Ticker": "INVH",
+    "Name": "Invitation Homes Inc.",
+    "Short % of Float": 0.034,
+    "Shares Short": 13230032,
+    "Current Price": 26.21,
+    "Dollar Value Shorted": 346759138.72
+  },
+  {
+    "Ticker": "JBHT",
+    "Name": "J.B. Hunt Transport Services, I",
+    "Short % of Float": 0.0402,
+    "Shares Short": 2974595,
+    "Current Price": 213.39,
+    "Dollar Value Shorted": 634748827.05
+  },
+  {
+    "Ticker": "JKHY",
+    "Name": "Jack Henry & Associates, Inc.",
+    "Short % of Float": 0.0529,
+    "Shares Short": 3339511,
+    "Current Price": 171.83,
+    "Dollar Value Shorted": 573828175.13
+  },
+  {
+    "Ticker": "J",
+    "Name": "Jacobs Solutions Inc.",
+    "Short % of Float": 0.031,
+    "Shares Short": 3185590,
+    "Current Price": 136.79,
+    "Dollar Value Shorted": 435756856.09999996
+  },
+  {
+    "Ticker": "JNJ",
+    "Name": "Johnson & Johnson",
+    "Short % of Float": 0.0086,
+    "Shares Short": 20767056,
+    "Current Price": 240.4,
+    "Dollar Value Shorted": 4992400262.400001
+  },
+  {
+    "Ticker": "JBL",
+    "Name": "Jabil Inc.",
+    "Short % of Float": 0.0312,
+    "Shares Short": 2783429,
+    "Current Price": 241.09,
+    "Dollar Value Shorted": 671056897.61
+  },
+  {
+    "Ticker": "KVUE",
+    "Name": "Kenvue Inc.",
+    "Short % of Float": 0.031600002,
+    "Shares Short": 59156267,
+    "Current Price": 18.39,
+    "Dollar Value Shorted": 1087883750.13
+  },
+  {
+    "Ticker": "KDP",
+    "Name": "Keurig Dr Pepper Inc.",
+    "Short % of Float": 0.0324,
+    "Shares Short": 39134869,
+    "Current Price": 28.25,
+    "Dollar Value Shorted": 1105560049.25
+  },
+  {
+    "Ticker": "KEY",
+    "Name": "KeyCorp",
+    "Short % of Float": 0.0252,
+    "Shares Short": 20798968,
+    "Current Price": 19.86,
+    "Dollar Value Shorted": 413067504.47999996
+  },
+  {
+    "Ticker": "JCI",
+    "Name": "Johnson Controls International ",
+    "Short % of Float": 0.0211,
+    "Shares Short": 10146960,
+    "Current Price": 132.4,
+    "Dollar Value Shorted": 1343457504.0
+  },
+  {
+    "Ticker": "JPM",
+    "Name": "JP Morgan Chase & Co.",
+    "Short % of Float": 0.0074,
+    "Shares Short": 19886105,
+    "Current Price": 289.48,
+    "Dollar Value Shorted": 5756629675.400001
+  },
+  {
+    "Ticker": "KMI",
+    "Name": "Kinder Morgan, Inc.",
+    "Short % of Float": 0.0276,
+    "Shares Short": 46476621,
+    "Current Price": 33.58,
+    "Dollar Value Shorted": 1560684933.1799998
+  },
+  {
+    "Ticker": "KEYS",
+    "Name": "Keysight Technologies Inc.",
+    "Short % of Float": 0.0176,
+    "Shares Short": 2642495,
+    "Current Price": 272.43,
+    "Dollar Value Shorted": 719894912.85
+  },
+  {
+    "Ticker": "KKR",
+    "Name": "KKR & Co. Inc.",
+    "Short % of Float": 0.0128999995,
+    "Shares Short": 8759981,
+    "Current Price": 91.33,
+    "Dollar Value Shorted": 800049064.73
+  },
+  {
+    "Ticker": "KMB",
+    "Name": "Kimberly-Clark Corporation",
+    "Short % of Float": 0.1245,
+    "Shares Short": 36888846,
+    "Current Price": 104.58,
+    "Dollar Value Shorted": 3857835514.68
+  },
+  {
+    "Ticker": "KIM",
+    "Name": "Kimco Realty Corporation (HC)",
+    "Short % of Float": 0.045100003,
+    "Shares Short": 22119049,
+    "Current Price": 23.28,
+    "Dollar Value Shorted": 514931460.72
+  },
+  {
+    "Ticker": "KR",
+    "Name": "Kroger Company (The)",
+    "Short % of Float": 0.0517,
+    "Shares Short": 28375249,
+    "Current Price": 74.11,
+    "Dollar Value Shorted": 2102889703.3899999
+  },
+  {
+    "Ticker": "KLAC",
+    "Name": "KLA Corporation",
+    "Short % of Float": 0.0248,
+    "Shares Short": 2908133,
+    "Current Price": 1344.55,
+    "Dollar Value Shorted": 3910130225.15
+  },
+  {
+    "Ticker": "LHX",
+    "Name": "L3Harris Technologies, Inc.",
+    "Short % of Float": 0.0124,
+    "Shares Short": 2011813,
+    "Current Price": 366.61,
+    "Dollar Value Shorted": 737550763.9300001
+  },
+  {
+    "Ticker": "KHC",
+    "Name": "The Kraft Heinz Company",
+    "Short % of Float": 0.09020001,
+    "Shares Short": 77170072,
+    "Current Price": 24.54,
+    "Dollar Value Shorted": 1893753566.8799999
+  },
+  {
+    "Ticker": "LW",
+    "Name": "Lamb Weston Holdings, Inc.",
+    "Short % of Float": 0.0572,
+    "Shares Short": 6971134,
+    "Current Price": 46.03,
+    "Dollar Value Shorted": 320881298.02
+  },
+  {
+    "Ticker": "LRCX",
+    "Name": "Lam Research Corporation",
+    "Short % of Float": 0.0295,
+    "Shares Short": 32943284,
+    "Current Price": 199.33,
+    "Dollar Value Shorted": 6566584799.72
+  },
+  {
+    "Ticker": "LVS",
+    "Name": "Las Vegas Sands Corp.",
+    "Short % of Float": 0.0301,
+    "Shares Short": 9831154,
+    "Current Price": 53.6,
+    "Dollar Value Shorted": 526949854.40000004
+  },
+  {
+    "Ticker": "LDOS",
+    "Name": "Leidos Holdings, Inc.",
+    "Short % of Float": 0.0249,
+    "Shares Short": 2744956,
+    "Current Price": 177.89,
+    "Dollar Value Shorted": 488300222.84
+  },
+  {
+    "Ticker": "LH",
+    "Name": "Labcorp Holdings Inc.",
+    "Short % of Float": 0.0479,
+    "Shares Short": 3017792,
+    "Current Price": 269.67,
+    "Dollar Value Shorted": 813807968.6400001
+  },
+  {
+    "Ticker": "LII",
+    "Name": "Lennox International, Inc.",
+    "Short % of Float": 0.0653,
+    "Shares Short": 1798583,
+    "Current Price": 517.47,
+    "Dollar Value Shorted": 930712745.01
+  },
+  {
+    "Ticker": "LIN",
+    "Name": "Linde plc",
+    "Short % of Float": 0.013099999,
+    "Shares Short": 6063494,
+    "Current Price": 484.74,
+    "Dollar Value Shorted": 2939218081.56
+  },
+  {
+    "Ticker": "LEN",
+    "Name": "Lennar Corporation",
+    "Short % of Float": 0.052699998,
+    "Shares Short": 8402355,
+    "Current Price": 101.17,
+    "Dollar Value Shorted": 850066255.35
+  },
+  {
+    "Ticker": "LLY",
+    "Name": "Eli Lilly and Company",
+    "Short % of Float": 0.008,
+    "Shares Short": 6379120,
+    "Current Price": 990.33,
+    "Dollar Value Shorted": 6317433909.6
+  },
+  {
+    "Ticker": "LMT",
+    "Name": "Lockheed Martin Corporation",
+    "Short % of Float": 0.0152,
+    "Shares Short": 2930837,
+    "Current Price": 671.77,
+    "Dollar Value Shorted": 1968848371.49
+  },
+  {
+    "Ticker": "LOW",
+    "Name": "Lowe's Companies, Inc.",
+    "Short % of Float": 0.019199999,
+    "Shares Short": 10735310,
+    "Current Price": 251.89,
+    "Dollar Value Shorted": 2704117235.8999996
+  },
+  {
+    "Ticker": "L",
+    "Name": "Loews Corporation",
+    "Short % of Float": 0.0226,
+    "Shares Short": 3762645,
+    "Current Price": 109.66,
+    "Dollar Value Shorted": 412611650.7
+  },
+  {
+    "Ticker": "LULU",
+    "Name": "lululemon athletica inc.",
+    "Short % of Float": 0.0539,
+    "Shares Short": 4600823,
+    "Current Price": 170.13,
+    "Dollar Value Shorted": 782738016.99
+  },
+  {
+    "Ticker": "LYB",
+    "Name": "LyondellBasell Industries NV",
+    "Short % of Float": 0.0629,
+    "Shares Short": 20237529,
+    "Current Price": 67.11,
+    "Dollar Value Shorted": 1358140571.19
+  },
+  {
+    "Ticker": "LYV",
+    "Name": "Live Nation Entertainment, Inc.",
+    "Short % of Float": 0.103599995,
+    "Shares Short": 16603769,
+    "Current Price": 156.13,
+    "Dollar Value Shorted": 2592346453.97
+  },
+  {
+    "Ticker": "MRSH",
+    "Name": "Marsh",
+    "Short % of Float": 0.0116,
+    "Shares Short": 5578918,
+    "Current Price": 183.08,
+    "Dollar Value Shorted": 1021388307.44
+  },
+  {
+    "Ticker": "MTB",
+    "Name": "M&T Bank Corporation",
+    "Short % of Float": 0.0466,
+    "Shares Short": 6011514,
+    "Current Price": 210.46,
+    "Dollar Value Shorted": 1265183236.44
+  },
+  {
+    "Ticker": "MAS",
+    "Name": "Masco Corporation",
+    "Short % of Float": 0.048299998,
+    "Shares Short": 8574852,
+    "Current Price": 63.66,
+    "Dollar Value Shorted": 545875078.3199999
+  },
+  {
+    "Ticker": "MPC",
+    "Name": "Marathon Petroleum Corporation",
+    "Short % of Float": 0.0337,
+    "Shares Short": 8793250,
+    "Current Price": 221.28,
+    "Dollar Value Shorted": 1945770360.0
+  },
+  {
+    "Ticker": "MAR",
+    "Name": "Marriott International",
+    "Short % of Float": 0.0327,
+    "Shares Short": 6938249,
+    "Current Price": 323.8,
+    "Dollar Value Shorted": 2246605026.2000003
+  },
+  {
+    "Ticker": "MA",
+    "Name": "Mastercard Incorporated",
+    "Short % of Float": 0.0081,
+    "Shares Short": 7194771,
+    "Current Price": 522.34,
+    "Dollar Value Shorted": 3758116684.1400003
+  },
+  {
+    "Ticker": "MTCH",
+    "Name": "Match Group, Inc.",
+    "Short % of Float": 0.0646,
+    "Shares Short": 13114789,
+    "Current Price": 30.47,
+    "Dollar Value Shorted": 399607620.83
+  },
+  {
+    "Ticker": "MLM",
+    "Name": "Martin Marietta Materials, Inc.",
+    "Short % of Float": 0.0309,
+    "Shares Short": 1632050,
+    "Current Price": 609.99,
+    "Dollar Value Shorted": 995534179.5
+  },
+  {
+    "Ticker": "MKC",
+    "Name": "McCormick & Company, Incorporat",
+    "Short % of Float": 0.0,
+    "Shares Short": 11684791,
+    "Current Price": 64.85,
+    "Dollar Value Shorted": 757758696.3499999
+  },
+  {
+    "Ticker": "MCD",
+    "Name": "McDonald's Corporation",
+    "Short % of Float": 0.012200001,
+    "Shares Short": 8702562,
+    "Current Price": 328.06,
+    "Dollar Value Shorted": 2854962489.72
+  },
+  {
+    "Ticker": "META",
+    "Name": "Meta Platforms, Inc.",
+    "Short % of Float": 0.0124,
+    "Shares Short": 27114122,
+    "Current Price": 644.86,
+    "Dollar Value Shorted": 17484812712.920002
+  },
+  {
+    "Ticker": "MDT",
+    "Name": "Medtronic plc.",
+    "Short % of Float": 0.0135,
+    "Shares Short": 17328251,
+    "Current Price": 90.9,
+    "Dollar Value Shorted": 1575138015.9
+  },
+  {
+    "Ticker": "MRK",
+    "Name": "Merck & Company, Inc.",
+    "Short % of Float": 0.0127,
+    "Shares Short": 28130031,
+    "Current Price": 115.79,
+    "Dollar Value Shorted": 3257176289.4900002
+  },
+  {
+    "Ticker": "MTD",
+    "Name": "Mettler-Toledo International, I",
+    "Short % of Float": 0.028800001,
+    "Shares Short": 510334,
+    "Current Price": 1209.65,
+    "Dollar Value Shorted": 617325523.1
+  },
+  {
+    "Ticker": "MGM",
+    "Name": "MGM Resorts International",
+    "Short % of Float": 0.1453,
+    "Shares Short": 22075920,
+    "Current Price": 35.57,
+    "Dollar Value Shorted": 785240474.4
+  },
+  {
+    "Ticker": "MCHP",
+    "Name": "Microchip Technology Incorporat",
+    "Short % of Float": 0.0563,
+    "Shares Short": 26111901,
+    "Current Price": 64.77,
+    "Dollar Value Shorted": 1691267827.77
+  },
+  {
+    "Ticker": "MU",
+    "Name": "Micron Technology, Inc.",
+    "Short % of Float": 0.0275,
+    "Shares Short": 30844110,
+    "Current Price": 370.3,
+    "Dollar Value Shorted": 11421573933.0
+  },
+  {
+    "Ticker": "MSFT",
+    "Name": "Microsoft Corporation",
+    "Short % of Float": 0.0076,
+    "Shares Short": 56124540,
+    "Current Price": 408.96,
+    "Dollar Value Shorted": 22952691878.399998
+  },
+  {
+    "Ticker": "MET",
+    "Name": "MetLife, Inc.",
+    "Short % of Float": 0.0191,
+    "Shares Short": 10295795,
+    "Current Price": 71.83,
+    "Dollar Value Shorted": 739546954.85
+  },
+  {
+    "Ticker": "MRNA",
+    "Name": "Moderna, Inc.",
+    "Short % of Float": 0.2191,
+    "Shares Short": 71341687,
+    "Current Price": 52.52,
+    "Dollar Value Shorted": 3746865401.2400002
+  },
+  {
+    "Ticker": "MOH",
+    "Name": "Molina Healthcare Inc",
+    "Short % of Float": 0.09729999,
+    "Shares Short": 3767698,
+    "Current Price": 144.47,
+    "Dollar Value Shorted": 544319330.06
+  },
+  {
+    "Ticker": "MDLZ",
+    "Name": "Mondelez International, Inc.",
+    "Short % of Float": 0.0273,
+    "Shares Short": 31176011,
+    "Current Price": 58.4,
+    "Dollar Value Shorted": 1820679042.3999999
+  },
+  {
+    "Ticker": "MCK",
+    "Name": "McKesson Corporation",
+    "Short % of Float": 0.0152,
+    "Shares Short": 1865575,
+    "Current Price": 919.26,
+    "Dollar Value Shorted": 1714948474.5
+  },
+  {
+    "Ticker": "MPWR",
+    "Name": "Monolithic Power Systems, Inc.",
+    "Short % of Float": 0.0505,
+    "Shares Short": 2099811,
+    "Current Price": 1023.16,
+    "Dollar Value Shorted": 2148442622.7599998
+  },
+  {
+    "Ticker": "MCO",
+    "Name": "Moody's Corporation",
+    "Short % of Float": 0.0128999995,
+    "Shares Short": 1965580,
+    "Current Price": 471.97,
+    "Dollar Value Shorted": 927694792.6
+  },
+  {
+    "Ticker": "MAA",
+    "Name": "Mid-America Apartment Communiti",
+    "Short % of Float": 0.037100002,
+    "Shares Short": 3084659,
+    "Current Price": 132.79,
+    "Dollar Value Shorted": 409611868.60999995
+  },
+  {
+    "Ticker": "MS",
+    "Name": "Morgan Stanley",
+    "Short % of Float": 0.0137,
+    "Shares Short": 16523284,
+    "Current Price": 160.27,
+    "Dollar Value Shorted": 2648186726.6800003
+  },
+  {
+    "Ticker": "MNST",
+    "Name": "Monster Beverage Corporation",
+    "Short % of Float": 0.0294,
+    "Shares Short": 20315291,
+    "Current Price": 75.61,
+    "Dollar Value Shorted": 1536039152.51
+  },
+  {
+    "Ticker": "TAP",
+    "Name": "Molson Coors Beverage Company",
+    "Short % of Float": 0.1523,
+    "Shares Short": 19432571,
+    "Current Price": 46.64,
+    "Dollar Value Shorted": 906335111.44
+  },
+  {
+    "Ticker": "MSI",
+    "Name": "Motorola Solutions, Inc.",
+    "Short % of Float": 0.0161,
+    "Shares Short": 2322978,
+    "Current Price": 460.76,
+    "Dollar Value Shorted": 1070335343.28
+  },
+  {
+    "Ticker": "NDAQ",
+    "Name": "Nasdaq, Inc.",
+    "Short % of Float": 0.0177,
+    "Shares Short": 7948974,
+    "Current Price": 88.43,
+    "Dollar Value Shorted": 702927770.82
+  },
+  {
+    "Ticker": "MSCI",
+    "Name": "MSCI Inc.",
+    "Short % of Float": 0.024500001,
+    "Shares Short": 1523454,
+    "Current Price": 569.24,
+    "Dollar Value Shorted": 867210954.96
+  },
+  {
+    "Ticker": "MOS",
+    "Name": "Mosaic Company (The)",
+    "Short % of Float": 0.0665,
+    "Shares Short": 18519390,
+    "Current Price": 26.31,
+    "Dollar Value Shorted": 487245150.9
+  },
+  {
+    "Ticker": "NFLX",
+    "Name": "Netflix, Inc.",
+    "Short % of Float": 0.0198,
+    "Shares Short": 82928240,
+    "Current Price": 99.02,
+    "Dollar Value Shorted": 8211554324.799999
+  },
+  {
+    "Ticker": "NEM",
+    "Name": "Newmont Corporation",
+    "Short % of Float": 0.0227,
+    "Shares Short": 18702308,
+    "Current Price": 116.29,
+    "Dollar Value Shorted": 2174891397.32
+  },
+  {
+    "Ticker": "NWS",
+    "Name": "News Corporation",
+    "Short % of Float": 0.1418,
+    "Shares Short": 8453336,
+    "Current Price": 27.7,
+    "Dollar Value Shorted": 234157407.2
+  },
+  {
+    "Ticker": "NTAP",
+    "Name": "NetApp, Inc.",
+    "Short % of Float": 0.1073,
+    "Shares Short": 18400791,
+    "Current Price": 101.06,
+    "Dollar Value Shorted": 1859583938.46
+  },
+  {
+    "Ticker": "NKE",
+    "Name": "Nike, Inc.",
+    "Short % of Float": 0.0427,
+    "Shares Short": 40064023,
+    "Current Price": 57.01,
+    "Dollar Value Shorted": 2284049951.23
+  },
+  {
+    "Ticker": "NI",
+    "Name": "NiSource Inc",
+    "Short % of Float": 0.0228,
+    "Shares Short": 8591564,
+    "Current Price": 46.46,
+    "Dollar Value Shorted": 399164063.44
+  },
+  {
+    "Ticker": "NDSN",
+    "Name": "Nordson Corporation",
+    "Short % of Float": 0.0223,
+    "Shares Short": 1100957,
+    "Current Price": 272.84,
+    "Dollar Value Shorted": 300385107.88
+  },
+  {
+    "Ticker": "NSC",
+    "Name": "Norfolk Southern Corporation",
+    "Short % of Float": 0.0464,
+    "Shares Short": 10417810,
+    "Current Price": 302.84,
+    "Dollar Value Shorted": 3154929580.3999996
+  },
+  {
+    "Ticker": "NOC",
+    "Name": "Northrop Grumman Corporation",
+    "Short % of Float": 0.0128999995,
+    "Shares Short": 1821087,
+    "Current Price": 756.13,
+    "Dollar Value Shorted": 1376978513.31
+  },
+  {
+    "Ticker": "NWSA",
+    "Name": "News Corporation",
+    "Short % of Float": 0.0334,
+    "Shares Short": 12334676,
+    "Current Price": 24.62,
+    "Dollar Value Shorted": 303679723.12
+  },
+  {
+    "Ticker": "NEE",
+    "Name": "NextEra Energy, Inc.",
+    "Short % of Float": 0.023699999,
+    "Shares Short": 44358566,
+    "Current Price": 91.02,
+    "Dollar Value Shorted": 4037516677.3199997
+  },
+  {
+    "Ticker": "NCLH",
+    "Name": "Norwegian Cruise Line Holdings ",
+    "Short % of Float": 0.0992,
+    "Shares Short": 34584950,
+    "Current Price": 20.05,
+    "Dollar Value Shorted": 693428247.5
+  },
+  {
+    "Ticker": "NTRS",
+    "Name": "Northern Trust Corporation",
+    "Short % of Float": 0.0117,
+    "Shares Short": 1897134,
+    "Current Price": 138.59,
+    "Dollar Value Shorted": 262923801.06
+  },
+  {
+    "Ticker": "NVDA",
+    "Name": "NVIDIA Corporation",
+    "Short % of Float": 0.0109,
+    "Shares Short": 254311707,
+    "Current Price": 177.82,
+    "Dollar Value Shorted": 45221707738.74
+  },
+  {
+    "Ticker": "NRG",
+    "Name": "NRG Energy, Inc.",
+    "Short % of Float": 0.0225,
+    "Shares Short": 4187070,
+    "Current Price": 154.32,
+    "Dollar Value Shorted": 646148642.4
+  },
+  {
+    "Ticker": "ORLY",
+    "Name": "O'Reilly Automotive, Inc.",
+    "Short % of Float": 0.0182,
+    "Shares Short": 15179577,
+    "Current Price": 94.6,
+    "Dollar Value Shorted": 1435987984.1999998
+  },
+  {
+    "Ticker": "NUE",
+    "Name": "Nucor Corporation",
+    "Short % of Float": 0.023699999,
+    "Shares Short": 4087548,
+    "Current Price": 168.75,
+    "Dollar Value Shorted": 689773725.0
+  },
+  {
+    "Ticker": "ODFL",
+    "Name": "Old Dominion Freight Line, Inc.",
+    "Short % of Float": 0.0808,
+    "Shares Short": 13407757,
+    "Current Price": 193.97,
+    "Dollar Value Shorted": 2600702625.29
+  },
+  {
+    "Ticker": "OMC",
+    "Name": "Omnicom Group Inc.",
+    "Short % of Float": 0.0853,
+    "Shares Short": 26283358,
+    "Current Price": 84.93,
+    "Dollar Value Shorted": 2232245594.94
+  },
+  {
+    "Ticker": "NVR",
+    "Name": "NVR, Inc.",
+    "Short % of Float": 0.038599998,
+    "Shares Short": 76983,
+    "Current Price": 6958.83,
+    "Dollar Value Shorted": 535711609.89
+  },
+  {
+    "Ticker": "ON",
+    "Name": "ON Semiconductor Corporation",
+    "Short % of Float": 0.1471,
+    "Shares Short": 34588528,
+    "Current Price": 56.87,
+    "Dollar Value Shorted": 1967049587.36
+  },
+  {
+    "Ticker": "NXPI",
+    "Name": "NXP Semiconductors N.V.",
+    "Short % of Float": 0.0437,
+    "Shares Short": 9909254,
+    "Current Price": 201.74,
+    "Dollar Value Shorted": 1999092901.96
+  },
+  {
+    "Ticker": "OXY",
+    "Name": "Occidental Petroleum Corporatio",
+    "Short % of Float": 0.051999997,
+    "Shares Short": 33000202,
+    "Current Price": 54.19,
+    "Dollar Value Shorted": 1788280946.3799999
+  },
+  {
+    "Ticker": "OKE",
+    "Name": "ONEOK, Inc.",
+    "Short % of Float": 0.0469,
+    "Shares Short": 26204399,
+    "Current Price": 86.93,
+    "Dollar Value Shorted": 2277948405.07
+  },
+  {
+    "Ticker": "ORCL",
+    "Name": "Oracle Corporation",
+    "Short % of Float": 0.0197,
+    "Shares Short": 33644740,
+    "Current Price": 152.96,
+    "Dollar Value Shorted": 5146299430.400001
+  },
+  {
+    "Ticker": "OTIS",
+    "Name": "Otis Worldwide Corporation",
+    "Short % of Float": 0.0353,
+    "Shares Short": 12082169,
+    "Current Price": 89.22,
+    "Dollar Value Shorted": 1077971118.18
+  },
+  {
+    "Ticker": "PCAR",
+    "Name": "PACCAR Inc.",
+    "Short % of Float": 0.026600001,
+    "Shares Short": 12100595,
+    "Current Price": 120.43,
+    "Dollar Value Shorted": 1457274655.8500001
+  },
+  {
+    "Ticker": "PKG",
+    "Name": "Packaging Corporation of Americ",
+    "Short % of Float": 0.05,
+    "Shares Short": 3420985,
+    "Current Price": 222.52,
+    "Dollar Value Shorted": 761237582.2
+  },
+  {
+    "Ticker": "PANW",
+    "Name": "Palo Alto Networks, Inc.",
+    "Short % of Float": 0.028099999,
+    "Shares Short": 22768366,
+    "Current Price": 165.05,
+    "Dollar Value Shorted": 3757918808.3
+  },
+  {
+    "Ticker": "PSKY",
+    "Name": "Paramount Skydance Corporation",
+    "Short % of Float": 0.0477,
+    "Shares Short": 51002161,
+    "Current Price": 11.99,
+    "Dollar Value Shorted": 611515910.39
+  },
+  {
+    "Ticker": "PLTR",
+    "Name": "Palantir Technologies Inc.",
+    "Short % of Float": 0.0235,
+    "Shares Short": 51368925,
+    "Current Price": 157.16,
+    "Dollar Value Shorted": 8073140253.0
+  },
+  {
+    "Ticker": "PH",
+    "Name": "Parker-Hannifin Corporation",
+    "Short % of Float": 0.0126,
+    "Shares Short": 1583388,
+    "Current Price": 923.72,
+    "Dollar Value Shorted": 1462607163.3600001
+  },
+  {
+    "Ticker": "PAYX",
+    "Name": "Paychex, Inc.",
+    "Short % of Float": 0.0627,
+    "Shares Short": 20110416,
+    "Current Price": 100.85,
+    "Dollar Value Shorted": 2028135453.6
+  },
+  {
+    "Ticker": "PYPL",
+    "Name": "PayPal Holdings, Inc.",
+    "Short % of Float": 0.0563,
+    "Shares Short": 51758573,
+    "Current Price": 46.97,
+    "Dollar Value Shorted": 2431100173.81
+  },
+  {
+    "Ticker": "PNR",
+    "Name": "Pentair plc.",
+    "Short % of Float": 0.0354,
+    "Shares Short": 4462020,
+    "Current Price": 92.17,
+    "Dollar Value Shorted": 411264383.40000004
+  },
+  {
+    "Ticker": "PEP",
+    "Name": "Pepsico, Inc.",
+    "Short % of Float": 0.0217,
+    "Shares Short": 29665371,
+    "Current Price": 159.43,
+    "Dollar Value Shorted": 4729550098.53
+  },
+  {
+    "Ticker": "PAYC",
+    "Name": "Paycom Software, Inc.",
+    "Short % of Float": 0.10560001,
+    "Shares Short": 4321954,
+    "Current Price": 138.01,
+    "Dollar Value Shorted": 596472871.54
+  },
+  {
+    "Ticker": "PNW",
+    "Name": "Pinnacle West Capital Corporati",
+    "Short % of Float": 0.0771,
+    "Shares Short": 6313790,
+    "Current Price": 102.44,
+    "Dollar Value Shorted": 646784647.6
+  },
+  {
+    "Ticker": "PCG",
+    "Name": "Pacific Gas & Electric Co.",
+    "Short % of Float": 0.0229,
+    "Shares Short": 44537372,
+    "Current Price": 18.18,
+    "Dollar Value Shorted": 809689422.96
+  },
+  {
+    "Ticker": "PFE",
+    "Name": "Pfizer, Inc.",
+    "Short % of Float": 0.025799999,
+    "Shares Short": 146379047,
+    "Current Price": 27.05,
+    "Dollar Value Shorted": 3959553221.35
+  },
+  {
+    "Ticker": "PM",
+    "Name": "Philip Morris International Inc",
+    "Short % of Float": 0.0123000005,
+    "Shares Short": 19062595,
+    "Current Price": 169.98,
+    "Dollar Value Shorted": 3240259898.1
+  },
+  {
+    "Ticker": "PSX",
+    "Name": "Phillips 66",
+    "Short % of Float": 0.0199,
+    "Shares Short": 7155487,
+    "Current Price": 165.96,
+    "Dollar Value Shorted": 1187524622.52
+  },
+  {
+    "Ticker": "PNC",
+    "Name": "PNC Financial Services Group, I",
+    "Short % of Float": 0.0177,
+    "Shares Short": 7133093,
+    "Current Price": 206.12,
+    "Dollar Value Shorted": 1470273129.16
+  },
+  {
+    "Ticker": "PFG",
+    "Name": "Principal Financial Group Inc",
+    "Short % of Float": 0.0361,
+    "Shares Short": 6772652,
+    "Current Price": 92.26,
+    "Dollar Value Shorted": 624844873.52
+  },
+  {
+    "Ticker": "PPG",
+    "Name": "PPG Industries, Inc.",
+    "Short % of Float": 0.037100002,
+    "Shares Short": 7214102,
+    "Current Price": 106.7,
+    "Dollar Value Shorted": 769744683.4
+  },
+  {
+    "Ticker": "POOL",
+    "Name": "Pool Corporation",
+    "Short % of Float": 0.1205,
+    "Shares Short": 3803984,
+    "Current Price": 213.66,
+    "Dollar Value Shorted": 812759221.4399999
+  },
+  {
+    "Ticker": "PG",
+    "Name": "Procter & Gamble Company (The)",
+    "Short % of Float": 0.0112,
+    "Shares Short": 25908742,
+    "Current Price": 153.63,
+    "Dollar Value Shorted": 3980360033.46
+  },
+  {
+    "Ticker": "PLD",
+    "Name": "Prologis, Inc.",
+    "Short % of Float": 0.015800001,
+    "Shares Short": 11279951,
+    "Current Price": 134.54,
+    "Dollar Value Shorted": 1517604607.54
+  },
+  {
+    "Ticker": "PPL",
+    "Name": "PPL Corporation",
+    "Short % of Float": 0.0497,
+    "Shares Short": 32650157,
+    "Current Price": 38.55,
+    "Dollar Value Shorted": 1258663552.35
+  },
+  {
+    "Ticker": "PGR",
+    "Name": "Progressive Corporation (The)",
+    "Short % of Float": 0.0116,
+    "Shares Short": 6769965,
+    "Current Price": 210.6,
+    "Dollar Value Shorted": 1425754629.0
+  },
+  {
+    "Ticker": "PEG",
+    "Name": "Public Service Enterprise Group",
+    "Short % of Float": 0.020399999,
+    "Shares Short": 7824244,
+    "Current Price": 83.35,
+    "Dollar Value Shorted": 652150737.4
+  },
+  {
+    "Ticker": "PHM",
+    "Name": "PulteGroup, Inc.",
+    "Short % of Float": 0.0535,
+    "Shares Short": 7734573,
+    "Current Price": 127.84,
+    "Dollar Value Shorted": 988787812.32
+  },
+  {
+    "Ticker": "PWR",
+    "Name": "Quanta Services, Inc.",
+    "Short % of Float": 0.0343,
+    "Shares Short": 4544718,
+    "Current Price": 540.19,
+    "Dollar Value Shorted": 2455011216.42
+  },
+  {
+    "Ticker": "PSA",
+    "Name": "Public Storage",
+    "Short % of Float": 0.037,
+    "Shares Short": 5060131,
+    "Current Price": 308.13,
+    "Dollar Value Shorted": 1559178165.03
+  },
+  {
+    "Ticker": "PTC",
+    "Name": "PTC Inc.",
+    "Short % of Float": 0.050300002,
+    "Shares Short": 3776460,
+    "Current Price": 162.71,
+    "Dollar Value Shorted": 614467806.6
+  },
+  {
+    "Ticker": "PRU",
+    "Name": "Prudential Financial, Inc.",
+    "Short % of Float": 0.026800001,
+    "Shares Short": 8180710,
+    "Current Price": 97.12,
+    "Dollar Value Shorted": 794510555.2
+  },
+  {
+    "Ticker": "QCOM",
+    "Name": "QUALCOMM Incorporated",
+    "Short % of Float": 0.0369,
+    "Shares Short": 35191883,
+    "Current Price": 135.69,
+    "Dollar Value Shorted": 4775186604.2699995
+  },
+  {
+    "Ticker": "DGX",
+    "Name": "Quest Diagnostics Incorporated",
+    "Short % of Float": 0.0495,
+    "Shares Short": 4771280,
+    "Current Price": 199.21,
+    "Dollar Value Shorted": 950486688.8000001
+  },
+  {
+    "Ticker": "Q",
+    "Name": "Qnity Electronics, Inc.",
+    "Short % of Float": 0.0,
+    "Shares Short": 2893646,
+    "Current Price": 110.14,
+    "Dollar Value Shorted": 318706170.44
+  },
+  {
+    "Ticker": "RL",
+    "Name": "Ralph Lauren Corporation",
+    "Short % of Float": 0.0747,
+    "Shares Short": 2430859,
+    "Current Price": 338.36,
+    "Dollar Value Shorted": 822505451.24
+  },
+  {
+    "Ticker": "RTX",
+    "Name": "RTX Corporation",
+    "Short % of Float": 0.0092,
+    "Shares Short": 12329892,
+    "Current Price": 209.76,
+    "Dollar Value Shorted": 2586318145.92
+  },
+  {
+    "Ticker": "RJF",
+    "Name": "Raymond James Financial, Inc.",
+    "Short % of Float": 0.0529,
+    "Shares Short": 9187757,
+    "Current Price": 152.05,
+    "Dollar Value Shorted": 1396998451.8500001
+  },
+  {
+    "Ticker": "REG",
+    "Name": "Regency Centers Corporation",
+    "Short % of Float": 0.051,
+    "Shares Short": 6710853,
+    "Current Price": 78.66,
+    "Dollar Value Shorted": 527875696.97999996
+  },
+  {
+    "Ticker": "REGN",
+    "Name": "Regeneron Pharmaceuticals, Inc.",
+    "Short % of Float": 0.020499999,
+    "Shares Short": 2051997,
+    "Current Price": 759.86,
+    "Dollar Value Shorted": 1559230440.42
+  },
+  {
+    "Ticker": "O",
+    "Name": "Realty Income Corporation",
+    "Short % of Float": 0.0385,
+    "Shares Short": 27137724,
+    "Current Price": 65.0,
+    "Dollar Value Shorted": 1763952060.0
+  },
+  {
+    "Ticker": "RVTY",
+    "Name": "Revvity, Inc.",
+    "Short % of Float": 0.1034,
+    "Shares Short": 7952683,
+    "Current Price": 91.34,
+    "Dollar Value Shorted": 726398065.22
+  },
+  {
+    "Ticker": "RF",
+    "Name": "Regions Financial Corporation",
+    "Short % of Float": 0.0773,
+    "Shares Short": 57777271,
+    "Current Price": 27.04,
+    "Dollar Value Shorted": 1562297407.84
+  },
+  {
+    "Ticker": "HOOD",
+    "Name": "Robinhood Markets, Inc.",
+    "Short % of Float": 0.044299997,
+    "Shares Short": 34546761,
+    "Current Price": 77.09,
+    "Dollar Value Shorted": 2663209805.4900002
+  },
+  {
+    "Ticker": "RSG",
+    "Name": "Republic Services, Inc.",
+    "Short % of Float": 0.0143,
+    "Shares Short": 2847518,
+    "Current Price": 231.05,
+    "Dollar Value Shorted": 657919033.9
+  },
+  {
+    "Ticker": "ROK",
+    "Name": "Rockwell Automation, Inc.",
+    "Short % of Float": 0.031400003,
+    "Shares Short": 3095977,
+    "Current Price": 369.83,
+    "Dollar Value Shorted": 1144985173.9099998
+  },
+  {
+    "Ticker": "RMD",
+    "Name": "ResMed Inc.",
+    "Short % of Float": 0.0798,
+    "Shares Short": 10098338,
+    "Current Price": 252.87,
+    "Dollar Value Shorted": 2553566730.06
+  },
+  {
+    "Ticker": "ROP",
+    "Name": "Roper Technologies, Inc.",
+    "Short % of Float": 0.027999999,
+    "Shares Short": 2977226,
+    "Current Price": 367.5,
+    "Dollar Value Shorted": 1094130555.0
+  },
+  {
+    "Ticker": "CRM",
+    "Name": "Salesforce, Inc.",
+    "Short % of Float": 0.021,
+    "Shares Short": 19084122,
+    "Current Price": 202.11,
+    "Dollar Value Shorted": 3857091897.42
+  },
+  {
+    "Ticker": "ROL",
+    "Name": "Rollins, Inc.",
+    "Short % of Float": 0.0345,
+    "Shares Short": 9643953,
+    "Current Price": 58.28,
+    "Dollar Value Shorted": 562049580.84
+  },
+  {
+    "Ticker": "SBAC",
+    "Name": "SBA Communications Corporation",
+    "Short % of Float": 0.025899999,
+    "Shares Short": 2295880,
+    "Current Price": 196.58,
+    "Dollar Value Shorted": 451324090.40000004
+  },
+  {
+    "Ticker": "ROST",
+    "Name": "Ross Stores, Inc.",
+    "Short % of Float": 0.0251,
+    "Shares Short": 7935534,
+    "Current Price": 211.75,
+    "Dollar Value Shorted": 1680349324.5
+  },
+  {
+    "Ticker": "SPGI",
+    "Name": "S&P Global Inc.",
+    "Short % of Float": 0.0164,
+    "Shares Short": 4881483,
+    "Current Price": 452.36,
+    "Dollar Value Shorted": 2208187649.88
+  },
+  {
+    "Ticker": "STX",
+    "Name": "Seagate Technology Holdings PLC",
+    "Short % of Float": 0.0645,
+    "Shares Short": 12210944,
+    "Current Price": 352.8,
+    "Dollar Value Shorted": 4308021043.2
+  },
+  {
+    "Ticker": "SLB",
+    "Name": "SLB Limited",
+    "Short % of Float": 0.040599998,
+    "Shares Short": 54457251,
+    "Current Price": 46.9,
+    "Dollar Value Shorted": 2554045071.9
+  },
+  {
+    "Ticker": "NOW",
+    "Name": "ServiceNow, Inc.",
+    "Short % of Float": 0.026099999,
+    "Shares Short": 27222531,
+    "Current Price": 124.34,
+    "Dollar Value Shorted": 3384849504.54
+  },
+  {
+    "Ticker": "SHW",
+    "Name": "Sherwin-Williams Company (The)",
+    "Short % of Float": 0.0139,
+    "Shares Short": 3436224,
+    "Current Price": 329.88,
+    "Dollar Value Shorted": 1133541573.12
+  },
+  {
+    "Ticker": "SNDK",
+    "Name": "Sandisk Corporation",
+    "Short % of Float": 0.080699995,
+    "Shares Short": 7617435,
+    "Current Price": 527.33,
+    "Dollar Value Shorted": 4016901998.55
+  },
+  {
+    "Ticker": "SPG",
+    "Name": "Simon Property Group, Inc.",
+    "Short % of Float": 0.022,
+    "Shares Short": 5214567,
+    "Current Price": 194.83,
+    "Dollar Value Shorted": 1015954088.61
+  },
+  {
+    "Ticker": "SRE",
+    "Name": "DBA Sempra",
+    "Short % of Float": 0.0173,
+    "Shares Short": 11281352,
+    "Current Price": 92.63,
+    "Dollar Value Shorted": 1044991635.76
+  },
+  {
+    "Ticker": "RCL",
+    "Name": "Royal Caribbean Cruises Ltd.",
+    "Short % of Float": 0.0523,
+    "Shares Short": 11689180,
+    "Current Price": 278.08,
+    "Dollar Value Shorted": 3250527174.3999996
+  },
+  {
+    "Ticker": "SWKS",
+    "Name": "Skyworks Solutions, Inc.",
+    "Short % of Float": 0.18020001,
+    "Shares Short": 20264846,
+    "Current Price": 54.81,
+    "Dollar Value Shorted": 1110716209.26
+  },
+  {
+    "Ticker": "SJM",
+    "Name": "The J.M. Smucker Company",
+    "Short % of Float": 0.0645,
+    "Shares Short": 5896430,
+    "Current Price": 111.21,
+    "Dollar Value Shorted": 655741980.3
+  },
+  {
+    "Ticker": "SW",
+    "Name": "Smurfit WestRock plc",
+    "Short % of Float": 0.0625,
+    "Shares Short": 27614975,
+    "Current Price": 42.85,
+    "Dollar Value Shorted": 1183301678.75
+  },
+  {
+    "Ticker": "SNA",
+    "Name": "Snap-On Incorporated",
+    "Short % of Float": 0.0624,
+    "Shares Short": 2705257,
+    "Current Price": 372.14,
+    "Dollar Value Shorted": 1006734339.98
+  },
+  {
+    "Ticker": "SO",
+    "Name": "Southern Company (The)",
+    "Short % of Float": 0.022,
+    "Shares Short": 24567203,
+    "Current Price": 97.48,
+    "Dollar Value Shorted": 2394810948.44
+  },
+  {
+    "Ticker": "SOLV",
+    "Name": "Solventum Corporation",
+    "Short % of Float": 0.0255,
+    "Shares Short": 3547641,
+    "Current Price": 69.41,
+    "Dollar Value Shorted": 246241761.81
+  },
+  {
+    "Ticker": "LUV",
+    "Name": "Southwest Airlines Company",
+    "Short % of Float": 0.056500003,
+    "Shares Short": 23812123,
+    "Current Price": 41.56,
+    "Dollar Value Shorted": 989631831.88
+  },
+  {
+    "Ticker": "STLD",
+    "Name": "Steel Dynamics, Inc.",
+    "Short % of Float": 0.0375,
+    "Shares Short": 4434070,
+    "Current Price": 181.61,
+    "Dollar Value Shorted": 805271452.7
+  },
+  {
+    "Ticker": "STT",
+    "Name": "State Street Corporation",
+    "Short % of Float": 0.023,
+    "Shares Short": 5548940,
+    "Current Price": 121.04,
+    "Dollar Value Shorted": 671643697.6
+  },
+  {
+    "Ticker": "SWK",
+    "Name": "Stanley Black & Decker, Inc.",
+    "Short % of Float": 0.038900003,
+    "Shares Short": 4575205,
+    "Current Price": 76.08,
+    "Dollar Value Shorted": 348081596.4
+  },
+  {
+    "Ticker": "SYK",
+    "Name": "Stryker Corporation",
+    "Short % of Float": 0.0112,
+    "Shares Short": 4081187,
+    "Current Price": 364.56,
+    "Dollar Value Shorted": 1487837532.72
+  },
+  {
+    "Ticker": "SMCI",
+    "Name": "Super Micro Computer, Inc.",
+    "Short % of Float": 0.18969999,
+    "Shares Short": 86187743,
+    "Current Price": 31.31,
+    "Dollar Value Shorted": 2698538233.33
+  },
+  {
+    "Ticker": "STE",
+    "Name": "STERIS plc (Ireland)",
+    "Short % of Float": 0.021,
+    "Shares Short": 1804596,
+    "Current Price": 230.51,
+    "Dollar Value Shorted": 415977423.96
+  },
+  {
+    "Ticker": "SYF",
+    "Name": "Synchrony Financial",
+    "Short % of Float": 0.057600003,
+    "Shares Short": 14348854,
+    "Current Price": 66.67,
+    "Dollar Value Shorted": 956638096.1800001
+  },
+  {
+    "Ticker": "SNPS",
+    "Name": "Synopsys, Inc.",
+    "Short % of Float": 0.023,
+    "Shares Short": 4380945,
+    "Current Price": 437.41,
+    "Dollar Value Shorted": 1916269152.45
+  },
+  {
+    "Ticker": "TMUS",
+    "Name": "T-Mobile US, Inc.",
+    "Short % of Float": 0.0327,
+    "Shares Short": 13955516,
+    "Current Price": 221.57,
+    "Dollar Value Shorted": 3092123680.12
+  },
+  {
+    "Ticker": "SBUX",
+    "Name": "Starbucks Corporation",
+    "Short % of Float": 0.047199998,
+    "Shares Short": 48403877,
+    "Current Price": 98.99,
+    "Dollar Value Shorted": 4791499784.23
+  },
+  {
+    "Ticker": "TROW",
+    "Name": "T. Rowe Price Group, Inc.",
+    "Short % of Float": 0.1149,
+    "Shares Short": 21651661,
+    "Current Price": 90.4,
+    "Dollar Value Shorted": 1957310154.4
+  },
+  {
+    "Ticker": "TTWO",
+    "Name": "Take-Two Interactive Software, ",
+    "Short % of Float": 0.0554,
+    "Shares Short": 9156525,
+    "Current Price": 211.5,
+    "Dollar Value Shorted": 1936605037.5
+  },
+  {
+    "Ticker": "TDY",
+    "Name": "Teledyne Technologies Incorpora",
+    "Short % of Float": 0.0307,
+    "Shares Short": 1239536,
+    "Current Price": 647.64,
+    "Dollar Value Shorted": 802773095.04
+  },
+  {
+    "Ticker": "SYY",
+    "Name": "Sysco Corporation",
+    "Short % of Float": 0.0372,
+    "Shares Short": 15519901,
+    "Current Price": 85.23,
+    "Dollar Value Shorted": 1322761162.23
+  },
+  {
+    "Ticker": "TRGP",
+    "Name": "Targa Resources, Inc.",
+    "Short % of Float": 0.028900001,
+    "Shares Short": 5356434,
+    "Current Price": 237.2,
+    "Dollar Value Shorted": 1270546144.8
+  },
+  {
+    "Ticker": "TPR",
+    "Name": "Tapestry, Inc.",
+    "Short % of Float": 0.0709,
+    "Shares Short": 12286934,
+    "Current Price": 144.15,
+    "Dollar Value Shorted": 1771161536.1000001
+  },
+  {
+    "Ticker": "TGT",
+    "Name": "Target Corporation",
+    "Short % of Float": 0.0425,
+    "Shares Short": 19227449,
+    "Current Price": 120.79,
+    "Dollar Value Shorted": 2322483564.71
+  },
+  {
+    "Ticker": "TEL",
+    "Name": "TE Connectivity plc",
+    "Short % of Float": 0.0272,
+    "Shares Short": 6947820,
+    "Current Price": 205.85,
+    "Dollar Value Shorted": 1430208747.0
+  },
+  {
+    "Ticker": "TSLA",
+    "Name": "Tesla, Inc.",
+    "Short % of Float": 0.0194,
+    "Shares Short": 64823111,
+    "Current Price": 396.73,
+    "Dollar Value Shorted": 25717272827.030003
+  },
+  {
+    "Ticker": "TPL",
+    "Name": "Texas Pacific Land Corporation",
+    "Short % of Float": 0.0995,
+    "Shares Short": 4704523,
+    "Current Price": 525.03,
+    "Dollar Value Shorted": 2470015710.69
+  },
+  {
+    "Ticker": "TXN",
+    "Name": "Texas Instruments Incorporated",
+    "Short % of Float": 0.0301,
+    "Shares Short": 24496526,
+    "Current Price": 193.23,
+    "Dollar Value Shorted": 4733463718.98
+  },
+  {
+    "Ticker": "TER",
+    "Name": "Teradyne, Inc.",
+    "Short % of Float": 0.0343,
+    "Shares Short": 4714023,
+    "Current Price": 273.05,
+    "Dollar Value Shorted": 1287163980.15
+  },
+  {
+    "Ticker": "TJX",
+    "Name": "TJX Companies, Inc. (The)",
+    "Short % of Float": 0.011,
+    "Shares Short": 12241766,
+    "Current Price": 159.33,
+    "Dollar Value Shorted": 1950480576.7800002
+  },
+  {
+    "Ticker": "TTD",
+    "Name": "The Trade Desk, Inc.",
+    "Short % of Float": 0.10609999,
+    "Shares Short": 46452696,
+    "Current Price": 29.28,
+    "Dollar Value Shorted": 1360134938.88
+  },
+  {
+    "Ticker": "TMO",
+    "Name": "Thermo Fisher Scientific Inc",
+    "Short % of Float": 0.0095,
+    "Shares Short": 3557292,
+    "Current Price": 501.97,
+    "Dollar Value Shorted": 1785653865.24
+  },
+  {
+    "Ticker": "TT",
+    "Name": "Trane Technologies plc",
+    "Short % of Float": 0.0182,
+    "Shares Short": 3618632,
+    "Current Price": 423.13,
+    "Dollar Value Shorted": 1531151758.16
+  },
+  {
+    "Ticker": "TXT",
+    "Name": "Textron Inc.",
+    "Short % of Float": 0.041199997,
+    "Shares Short": 6208200,
+    "Current Price": 94.96,
+    "Dollar Value Shorted": 589530672.0
+  },
+  {
+    "Ticker": "TDG",
+    "Name": "Transdigm Group Incorporated",
+    "Short % of Float": 0.026500002,
+    "Shares Short": 1128706,
+    "Current Price": 1294.53,
+    "Dollar Value Shorted": 1461143778.18
+  },
+  {
+    "Ticker": "TKO",
+    "Name": "TKO Group Holdings, Inc.",
+    "Short % of Float": 0.0876,
+    "Shares Short": 6474640,
+    "Current Price": 202.68,
+    "Dollar Value Shorted": 1312280035.2
+  },
+  {
+    "Ticker": "TSCO",
+    "Name": "Tractor Supply Company",
+    "Short % of Float": 0.0694,
+    "Shares Short": 35034970,
+    "Current Price": 50.16,
+    "Dollar Value Shorted": 1757354095.1999998
+  },
+  {
+    "Ticker": "TRV",
+    "Name": "The Travelers Companies, Inc.",
+    "Short % of Float": 0.0183,
+    "Shares Short": 3945021,
+    "Current Price": 306.31,
+    "Dollar Value Shorted": 1208399382.51
+  },
+  {
+    "Ticker": "TRMB",
+    "Name": "Trimble Inc.",
+    "Short % of Float": 0.023,
+    "Shares Short": 4777520,
+    "Current Price": 70.08,
+    "Dollar Value Shorted": 334808601.59999996
+  },
+  {
+    "Ticker": "TYL",
+    "Name": "Tyler Technologies, Inc.",
+    "Short % of Float": 0.0468,
+    "Shares Short": 1776104,
+    "Current Price": 374.59,
+    "Dollar Value Shorted": 665310797.36
+  },
+  {
+    "Ticker": "USB",
+    "Name": "U.S. Bancorp",
+    "Short % of Float": 0.0178,
+    "Shares Short": 27594785,
+    "Current Price": 52.37,
+    "Dollar Value Shorted": 1445138890.45
+  },
+  {
+    "Ticker": "UDR",
+    "Name": "UDR, Inc.",
+    "Short % of Float": 0.0612,
+    "Shares Short": 14779800,
+    "Current Price": 37.25,
+    "Dollar Value Shorted": 550547550.0
+  },
+  {
+    "Ticker": "ULTA",
+    "Name": "Ulta Beauty, Inc.",
+    "Short % of Float": 0.0635,
+    "Shares Short": 2146926,
+    "Current Price": 646.34,
+    "Dollar Value Shorted": 1387644150.8400002
+  },
+  {
+    "Ticker": "UNP",
+    "Name": "Union Pacific Corporation",
+    "Short % of Float": 0.047399998,
+    "Shares Short": 28109310,
+    "Current Price": 254.11,
+    "Dollar Value Shorted": 7142856764.1
+  },
+  {
+    "Ticker": "TSN",
+    "Name": "Tyson Foods, Inc.",
+    "Short % of Float": 0.0293,
+    "Shares Short": 8097041,
+    "Current Price": 61.43,
+    "Dollar Value Shorted": 497401228.63
+  },
+  {
+    "Ticker": "UBER",
+    "Name": "Uber Technologies, Inc.",
+    "Short % of Float": 0.026600001,
+    "Shares Short": 52678385,
+    "Current Price": 75.13,
+    "Dollar Value Shorted": 3957727065.0499997
+  },
+  {
+    "Ticker": "TFC",
+    "Name": "Truist Financial Corporation",
+    "Short % of Float": 0.0235,
+    "Shares Short": 29664452,
+    "Current Price": 46.49,
+    "Dollar Value Shorted": 1379100373.48
+  },
+  {
+    "Ticker": "UPS",
+    "Name": "United Parcel Service, Inc.",
+    "Short % of Float": 0.024300002,
+    "Shares Short": 18059773,
+    "Current Price": 102.36,
+    "Dollar Value Shorted": 1848598364.28
+  },
+  {
+    "Ticker": "URI",
+    "Name": "United Rentals, Inc.",
+    "Short % of Float": 0.0321,
+    "Shares Short": 1771640,
+    "Current Price": 809.6,
+    "Dollar Value Shorted": 1434319744.0
+  },
+  {
+    "Ticker": "UNH",
+    "Name": "UnitedHealth Group Incorporated",
+    "Short % of Float": 0.0152,
+    "Shares Short": 13725546,
+    "Current Price": 286.48,
+    "Dollar Value Shorted": 3932094418.0800004
+  },
+  {
+    "Ticker": "UHS",
+    "Name": "Universal Health Services, Inc.",
+    "Short % of Float": 0.0523,
+    "Shares Short": 1932160,
+    "Current Price": 192.65,
+    "Dollar Value Shorted": 372230624.0
+  },
+  {
+    "Ticker": "VLO",
+    "Name": "Valero Energy Corporation",
+    "Short % of Float": 0.0436,
+    "Shares Short": 11723504,
+    "Current Price": 224.63,
+    "Dollar Value Shorted": 2633450703.52
+  },
+  {
+    "Ticker": "VTR",
+    "Name": "Ventas, Inc.",
+    "Short % of Float": 0.0359,
+    "Shares Short": 14709627,
+    "Current Price": 84.87,
+    "Dollar Value Shorted": 1248406043.49
+  },
+  {
+    "Ticker": "VRSN",
+    "Name": "VeriSign, Inc.",
+    "Short % of Float": 0.026500002,
+    "Shares Short": 1782420,
+    "Current Price": 243.78,
+    "Dollar Value Shorted": 434518347.6
+  },
+  {
+    "Ticker": "VZ",
+    "Name": "Verizon Communications Inc.",
+    "Short % of Float": 0.0352,
+    "Shares Short": 148344833,
+    "Current Price": 51.12,
+    "Dollar Value Shorted": 7583387862.96
+  },
+  {
+    "Ticker": "UAL",
+    "Name": "United Airlines Holdings, Inc.",
+    "Short % of Float": 0.0304,
+    "Shares Short": 8657871,
+    "Current Price": 92.07,
+    "Dollar Value Shorted": 797130182.9699999
+  },
+  {
+    "Ticker": "VLTO",
+    "Name": "Veralto Corp",
+    "Short % of Float": 0.0225,
+    "Shares Short": 4920264,
+    "Current Price": 94.33,
+    "Dollar Value Shorted": 464128503.12
+  },
+  {
+    "Ticker": "VTRS",
+    "Name": "Viatris Inc.",
+    "Short % of Float": 0.026300002,
+    "Shares Short": 26450946,
+    "Current Price": 14.16,
+    "Dollar Value Shorted": 374545395.36
+  },
+  {
+    "Ticker": "V",
+    "Name": "Visa Inc.",
+    "Short % of Float": 0.015800001,
+    "Shares Short": 26509047,
+    "Current Price": 317.36,
+    "Dollar Value Shorted": 8412911155.92
+  },
+  {
+    "Ticker": "VICI",
+    "Name": "VICI Properties Inc.",
+    "Short % of Float": 0.026500002,
+    "Shares Short": 24314043,
+    "Current Price": 29.67,
+    "Dollar Value Shorted": 721397655.8100001
+  },
+  {
+    "Ticker": "VST",
+    "Name": "Vistra Corp.",
+    "Short % of Float": 0.0346,
+    "Shares Short": 10122195,
+    "Current Price": 158.65,
+    "Dollar Value Shorted": 1605886236.75
+  },
+  {
+    "Ticker": "VMC",
+    "Name": "Vulcan Materials Company (Holdi",
+    "Short % of Float": 0.035,
+    "Shares Short": 4020542,
+    "Current Price": 274.99,
+    "Dollar Value Shorted": 1105608844.58
+  },
+  {
+    "Ticker": "WRB",
+    "Name": "W.R. Berkley Corporation",
+    "Short % of Float": 0.0679,
+    "Shares Short": 20103374,
+    "Current Price": 69.92,
+    "Dollar Value Shorted": 1405627910.08
+  },
+  {
+    "Ticker": "GWW",
+    "Name": "W.W. Grainger, Inc.",
+    "Short % of Float": 0.038,
+    "Shares Short": 1449391,
+    "Current Price": 1112.79,
+    "Dollar Value Shorted": 1612867810.8899999
+  },
+  {
+    "Ticker": "VRTX",
+    "Name": "Vertex Pharmaceuticals Incorpor",
+    "Short % of Float": 0.0198,
+    "Shares Short": 4466182,
+    "Current Price": 456.69,
+    "Dollar Value Shorted": 2039660657.58
+  },
+  {
+    "Ticker": "WBD",
+    "Name": "Warner Bros. Discovery, Inc. - ",
+    "Short % of Float": 0.0274,
+    "Shares Short": 59898553,
+    "Current Price": 27.95,
+    "Dollar Value Shorted": 1674164556.35
+  },
+  {
+    "Ticker": "WMT",
+    "Name": "Walmart Inc.",
+    "Short % of Float": 0.012999999,
+    "Shares Short": 103328744,
+    "Current Price": 123.8,
+    "Dollar Value Shorted": 12792098507.199999
+  },
+  {
+    "Ticker": "WM",
+    "Name": "Waste Management, Inc.",
+    "Short % of Float": 0.0126,
+    "Shares Short": 5068213,
+    "Current Price": 246.05,
+    "Dollar Value Shorted": 1247033808.65
+  },
+  {
+    "Ticker": "WEC",
+    "Name": "WEC Energy Group, Inc.",
+    "Short % of Float": 0.0538,
+    "Shares Short": 15237027,
+    "Current Price": 115.77,
+    "Dollar Value Shorted": 1763990615.79
+  },
+  {
+    "Ticker": "DIS",
+    "Name": "Walt Disney Company (The)",
+    "Short % of Float": 0.012999999,
+    "Shares Short": 23103999,
+    "Current Price": 101.54,
+    "Dollar Value Shorted": 2345980058.46
+  },
+  {
+    "Ticker": "WAB",
+    "Name": "Westinghouse Air Brake Technolo",
+    "Short % of Float": 0.012,
+    "Shares Short": 1789915,
+    "Current Price": 244.68,
+    "Dollar Value Shorted": 437956402.2
+  },
+  {
+    "Ticker": "WAT",
+    "Name": "Waters Corporation",
+    "Short % of Float": 0.031400003,
+    "Shares Short": 2667586,
+    "Current Price": 302.54,
+    "Dollar Value Shorted": 807051468.44
+  },
+  {
+    "Ticker": "WFC",
+    "Name": "Wells Fargo & Company",
+    "Short % of Float": 0.0087,
+    "Shares Short": 26656825,
+    "Current Price": 80.42,
+    "Dollar Value Shorted": 2143741866.5
+  },
+  {
+    "Ticker": "WELL",
+    "Name": "Welltower Inc.",
+    "Short % of Float": 0.0235,
+    "Shares Short": 14360115,
+    "Current Price": 204.29,
+    "Dollar Value Shorted": 2933627893.35
+  },
+  {
+    "Ticker": "WST",
+    "Name": "West Pharmaceutical Services, I",
+    "Short % of Float": 0.040900003,
+    "Shares Short": 2240980,
+    "Current Price": 245.86,
+    "Dollar Value Shorted": 550967342.8000001
+  },
+  {
+    "Ticker": "VRSK",
+    "Name": "Verisk Analytics, Inc.",
+    "Short % of Float": 0.0397,
+    "Shares Short": 4816674,
+    "Current Price": 214.84,
+    "Dollar Value Shorted": 1034814242.16
+  },
+  {
+    "Ticker": "WDC",
+    "Name": "Western Digital Corporation",
+    "Short % of Float": 0.105299994,
+    "Shares Short": 31585632,
+    "Current Price": 245.25,
+    "Dollar Value Shorted": 7746376248.0
+  },
+  {
+    "Ticker": "WY",
+    "Name": "Weyerhaeuser Company",
+    "Short % of Float": 0.0247,
+    "Shares Short": 14918722,
+    "Current Price": 24.5,
+    "Dollar Value Shorted": 365508689.0
+  },
+  {
+    "Ticker": "WSM",
+    "Name": "Williams-Sonoma, Inc.",
+    "Short % of Float": 0.081199996,
+    "Shares Short": 7272142,
+    "Current Price": 186.52,
+    "Dollar Value Shorted": 1356399925.8400002
+  },
+  {
+    "Ticker": "WMB",
+    "Name": "Williams Companies, Inc. (The)",
+    "Short % of Float": 0.014099999,
+    "Shares Short": 15330610,
+    "Current Price": 74.24,
+    "Dollar Value Shorted": 1138144486.3999999
+  },
+  {
+    "Ticker": "WDAY",
+    "Name": "Workday, Inc.",
+    "Short % of Float": 0.061300002,
+    "Shares Short": 12987717,
+    "Current Price": 151.04,
+    "Dollar Value Shorted": 1961664775.6799998
+  },
+  {
+    "Ticker": "XEL",
+    "Name": "Xcel Energy Inc.",
+    "Short % of Float": 0.0517,
+    "Shares Short": 26841145,
+    "Current Price": 82.52,
+    "Dollar Value Shorted": 2214931285.4
+  },
+  {
+    "Ticker": "YUM",
+    "Name": "Yum! Brands, Inc.",
+    "Short % of Float": 0.023599999,
+    "Shares Short": 5748328,
+    "Current Price": 160.0,
+    "Dollar Value Shorted": 919732480.0
+  },
+  {
+    "Ticker": "ZBRA",
+    "Name": "Zebra Technologies Corporation",
+    "Short % of Float": 0.048499998,
+    "Shares Short": 2078307,
+    "Current Price": 219.65,
+    "Dollar Value Shorted": 456500132.55
+  },
+  {
+    "Ticker": "XYL",
+    "Name": "Xylem Inc.",
+    "Short % of Float": 0.023599999,
+    "Shares Short": 4501910,
+    "Current Price": 123.15,
+    "Dollar Value Shorted": 554410216.5
+  },
+  {
+    "Ticker": "ZTS",
+    "Name": "Zoetis Inc.",
+    "Short % of Float": 0.0387,
+    "Shares Short": 16333854,
+    "Current Price": 121.43,
+    "Dollar Value Shorted": 1983419891.22
+  },
+  {
+    "Ticker": "WTW",
+    "Name": "Willis Towers Watson Public Lim",
+    "Short % of Float": 0.0223,
+    "Shares Short": 1625318,
+    "Current Price": 302.94,
+    "Dollar Value Shorted": 492373834.92
+  },
+  {
+    "Ticker": "ZBH",
+    "Name": "Zimmer Biomet Holdings, Inc.",
+    "Short % of Float": 0.0494,
+    "Shares Short": 8412337,
+    "Current Price": 94.11,
+    "Dollar Value Shorted": 791685035.07
+  },
+  {
+    "Ticker": "WYNN",
+    "Name": "Wynn Resorts, Limited",
+    "Short % of Float": 0.067,
+    "Shares Short": 5464817,
+    "Current Price": 101.61,
+    "Dollar Value Shorted": 555280055.37
+  }
+]
