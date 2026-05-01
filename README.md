@@ -1,31 +1,31 @@
 # S&P 500 Short Interest Tracker
 
-*Last Updated: 2026-04-24 22:33:24 EST*
+*Last Updated: 2026-05-01 22:41:35 EST*
 
 ## Top 10 by % Float Shorted
 | Ticker   | Name                         | Short % of Float   | Dollar Value Shorted   | Current Price   |
 |:---------|:-----------------------------|:-------------------|:-----------------------|:----------------|
-| CHTR     | Charter Communications, Inc. | 35.62%             | $3,203,533,153         | $180.13         |
-| SATS     | EchoStar Corporation         | 28.88%             | $3,921,656,852         | $117.50         |
-| CPB      | The Campbell's Company       | 23.25%             | $740,550,350           | $20.62          |
-| SWKS     | Skyworks Solutions, Inc.     | 21.12%             | $1,276,092,499         | $63.65          |
-| DVA      | DaVita Inc.                  | 20.23%             | $938,845,273           | $151.85         |
-| MRNA     | Moderna, Inc.                | 18.71%             | $3,076,754,309         | $50.73          |
-| SMCI     | Super Micro Computer, Inc.   | 18.52%             | $2,419,053,155         | $29.08          |
-| TTD      | The Trade Desk, Inc.         | 18.38%             | $1,601,830,126         | $23.97          |
-| FOXA     | Fox Corporation              | 18.30%             | $1,956,128,127         | $62.85          |
-| EPAM     | EPAM Systems, Inc.           | 18.10%             | $805,525,773           | $118.98         |
+| CHTR     | Charter Communications, Inc. | 35.76%             | $3,066,318,091         | $171.74         |
+| SATS     | EchoStar Corporation         | 30.65%             | $4,363,911,287         | $123.18         |
+| CPB      | The Campbell's Company       | 24.13%             | $772,648,726           | $20.73          |
+| SWKS     | Skyworks Solutions, Inc.     | 23.46%             | $1,545,352,424         | $69.40          |
+| TTD      | The Trade Desk, Inc.         | 19.84%             | $1,748,381,217         | $24.24          |
+| SMCI     | Super Micro Computer, Inc.   | 19.33%             | $2,351,171,414         | $27.09          |
+| FOXA     | Fox Corporation              | 18.37%             | $1,979,149,658         | $63.35          |
+| EPAM     | EPAM Systems, Inc.           | 18.35%             | $777,578,252           | $112.33         |
+| MRNA     | Moderna, Inc.                | 18.33%             | $2,696,682,188         | $45.37          |
+| IT       | Gartner, Inc.                | 17.14%             | $1,228,419,854         | $146.40         |
 
 ## Top 10 by Absolute Dollar Value Shorted
 | Ticker   | Name                    | Dollar Value Shorted   | Short % of Float   | Current Price   |
 |:---------|:------------------------|:-----------------------|:-------------------|:----------------|
-| NVDA     | NVIDIA Corporation      | $58,497,333,903        | 1.21%              | $208.27         |
-| MSFT     | Microsoft Corporation   | $34,390,550,009        | 1.09%              | $424.62         |
-| AAPL     | Apple Inc.              | $34,362,624,241        | 0.86%              | $271.06         |
-| GOOGL    | Alphabet Inc.           | $27,435,121,661        | 1.37%              | $344.40         |
-| TSLA     | Tesla, Inc.             | $24,684,754,309        | 1.97%              | $376.30         |
-| AMZN     | Amazon.com, Inc.        | $23,136,357,094        | 0.89%              | $263.99         |
-| AVGO     | Broadcom Inc.           | $22,561,736,039        | 1.15%              | $422.76         |
-| META     | Meta Platforms, Inc.    | $17,805,167,756        | 1.21%              | $675.03         |
-| MU       | Micron Technology, Inc. | $15,575,085,760        | 2.79%              | $496.72         |
-| CRM      | Salesforce, Inc.        | $13,863,449,670        | 11.00%             | $178.16         |
+| NVDA     | NVIDIA Corporation      | $56,227,969,863        | 1.22%              | $198.45         |
+| AAPL     | Apple Inc.              | $37,657,199,550        | 0.92%              | $280.14         |
+| MSFT     | Microsoft Corporation   | $34,567,297,374        | 1.12%              | $414.44         |
+| GOOGL    | Alphabet Inc.           | $30,111,375,622        | 1.34%              | $385.69         |
+| TSLA     | Tesla, Inc.             | $27,789,999,440        | 2.13%              | $390.82         |
+| AMZN     | Amazon.com, Inc.        | $24,949,931,201        | 0.95%              | $268.26         |
+| AVGO     | Broadcom Inc.           | $23,013,980,842        | 1.18%              | $421.28         |
+| MU       | Micron Technology, Inc. | $19,697,090,940        | 3.23%              | $542.21         |
+| GOOG     | Alphabet Inc.           | $16,876,346,213        | 0.00%              | $383.22         |
+| META     | Meta Platforms, Inc.    | $16,111,635,653        | 1.21%              | $608.75         |
