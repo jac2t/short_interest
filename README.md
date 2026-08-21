@@ -1,31 +1,31 @@
 # S&P 500 Short Interest Tracker
 
-*Last Updated: 2026-08-14 22:13:36 EST*
+*Last Updated: 2026-08-21 22:14:29 EST*
 
 ## Top 10 by % Float Shorted
 | Ticker   | Name                           | Short % of Float   | Dollar Value Shorted   | Current Price   |
 |:---------|:-------------------------------|:-------------------|:-----------------------|:----------------|
-| CHTR     | Charter Communications, Inc.   | 50.40%             | $3,465,546,117         | $154.27         |
-| SWKS     | Skyworks Solutions, Inc.       | 32.98%             | $2,181,233,169         | $69.62          |
-| FOXA     | Fox Corporation                | 26.24%             | $3,055,663,867         | $69.04          |
-| TAP      | Molson Coors Beverage Company  | 25.95%             | $1,200,293,046         | $42.77          |
-| ECHO     | EchoStar Corporation           | 24.10%             | $2,507,222,693         | $91.89          |
-| IT       | Gartner, Inc.                  | 21.64%             | $1,747,543,490         | $181.09         |
-| TTD      | The Trade Desk, Inc.           | 20.74%             | $1,065,714,281         | $14.14          |
-| NCLH     | Norwegian Cruise Line Holdings | 20.74%             | $1,598,101,142         | $19.01          |
-| SMCI     | Super Micro Computer, Inc.     | 18.45%             | $3,642,400,446         | $39.84          |
-| MGM      | MGM Resorts International      | 16.69%             | $881,903,730           | $44.10          |
+| CHTR     | Charter Communications, Inc.   | 50.40%             | $3,373,443,057         | $150.17         |
+| SWKS     | Skyworks Solutions, Inc.       | 32.98%             | $2,103,533,396         | $67.14          |
+| FOXA     | Fox Corporation                | 26.24%             | $3,033,534,204         | $68.54          |
+| TAP      | Molson Coors Beverage Company  | 25.95%             | $1,205,063,909         | $42.94          |
+| ECHO     | EchoStar Corporation           | 24.10%             | $2,368,614,670         | $86.81          |
+| IT       | Gartner, Inc.                  | 21.64%             | $1,890,462,034         | $195.90         |
+| NCLH     | Norwegian Cruise Line Holdings | 20.74%             | $1,449,303,719         | $17.24          |
+| TTD      | The Trade Desk, Inc.           | 20.74%             | $993,360,270           | $13.18          |
+| SMCI     | Super Micro Computer, Inc.     | 18.45%             | $3,404,693,589         | $37.24          |
+| MGM      | MGM Resorts International      | 16.69%             | $874,704,516           | $43.74          |
 
 ## Top 10 by Absolute Dollar Value Shorted
 | Ticker   | Name                         | Dollar Value Shorted   | Short % of Float   | Current Price   |
 |:---------|:-----------------------------|:-----------------------|:-------------------|:----------------|
-| NVDA     | NVIDIA Corporation           | $65,896,986,155        | 1.26%              | $225.16         |
-| AAPL     | Apple Inc.                   | $43,321,573,447        | 0.97%              | $305.93         |
-| MSFT     | Microsoft Corporation        | $40,281,861,261        | 1.10%              | $495.40         |
-| MU       | Micron Technology, Inc.      | $29,045,732,299        | 2.65%              | $971.66         |
-| AMZN     | Amazon.com, Inc.             | $25,853,735,801        | 1.00%              | $262.65         |
-| GOOGL    | Alphabet Inc.                | $24,383,779,478        | 1.20%              | $345.90         |
-| AVGO     | Broadcom Inc.                | $24,049,475,774        | 1.31%              | $392.99         |
-| TSLA     | Tesla, Inc.                  | $23,446,055,981        | 1.94%              | $342.27         |
-| AMD      | Advanced Micro Devices, Inc. | $19,419,319,179        | 2.32%              | $514.39         |
-| GOOG     | Alphabet Inc.                | $19,119,049,141        | 0.00%              | $343.54         |
+| NVDA     | NVIDIA Corporation           | $62,841,538,760        | 1.26%              | $214.72         |
+| AAPL     | Apple Inc.                   | $43,805,866,524        | 0.97%              | $309.35         |
+| MSFT     | Microsoft Corporation        | $39,293,109,883        | 1.10%              | $483.24         |
+| MU       | Micron Technology, Inc.      | $28,899,854,962        | 2.65%              | $966.78         |
+| AMZN     | Amazon.com, Inc.             | $25,458,030,422        | 1.00%              | $258.63         |
+| TSLA     | Tesla, Inc.                  | $24,856,504,728        | 1.94%              | $362.86         |
+| GOOGL    | Alphabet Inc.                | $24,307,646,254        | 1.20%              | $344.82         |
+| AVGO     | Broadcom Inc.                | $22,547,722,204        | 1.31%              | $368.45         |
+| GOOG     | Alphabet Inc.                | $19,019,430,179        | 0.00%              | $341.75         |
+| AMD      | Advanced Micro Devices, Inc. | $17,866,196,469        | 2.32%              | $473.25         |
