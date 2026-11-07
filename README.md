@@ -1,31 +1,31 @@
 # S&P 500 Short Interest Tracker
 
-*Last Updated: 2026-10-31 01:16:50 EST*
+*Last Updated: 2026-11-07 01:28:27 EST*
 
 ## Top 10 by % Float Shorted
 | Ticker   | Name                            | Short % of Float   | Dollar Value Shorted   | Current Price   |
 |:---------|:--------------------------------|:-------------------|:-----------------------|:----------------|
-| CHTR     | Charter Communications, Inc.    | 43.85%             | $1,943,359,781         | $111.49         |
-| FOXA     | Fox Corporation                 | 28.60%             | $3,088,940,409         | $63.24          |
-| NCLH     | Norwegian Cruise Line Holdings  | 22.01%             | $1,567,853,609         | $17.57          |
-| ECHO     | EchoStar Corporation            | 21.61%             | $2,378,960,238         | $96.94          |
-| MGM      | MGM Resorts International       | 19.09%             | $685,519,164           | $29.96          |
-| KMB      | Kimberly-Clark Corporation      | 17.37%             | $5,460,495,165         | $107.94         |
-| IP       | International Paper Company     | 16.17%             | $1,703,295,661         | $36.37          |
-| LULU     | lululemon athletica inc.        | 15.43%             | $1,743,716,287         | $107.24         |
-| LYV      | Live Nation Entertainment, Inc. | 15.38%             | $4,303,726,391         | $177.89         |
-| AKAM     | Akamai Technologies, Inc.       | 15.33%             | $1,737,300,945         | $92.72          |
+| CHTR     | Charter Communications, Inc.    | 43.85%             | $2,058,054,438         | $118.07         |
+| FOXA     | Fox Corporation                 | 24.57%             | $3,255,012,474         | $66.64          |
+| NCLH     | Norwegian Cruise Line Holdings  | 22.01%             | $1,599,085,752         | $17.92          |
+| ECHO     | EchoStar Corporation            | 21.60%             | $2,322,026,179         | $94.62          |
+| MGM      | MGM Resorts International       | 19.09%             | $739,976,294           | $32.34          |
+| KMB      | Kimberly-Clark Corporation      | 17.37%             | $5,485,283,405         | $108.43         |
+| IP       | International Paper Company     | 16.17%             | $1,617,123,981         | $34.53          |
+| LULU     | lululemon athletica inc.        | 15.43%             | $1,801,439,085         | $110.79         |
+| LYV      | Live Nation Entertainment, Inc. | 15.38%             | $4,239,856,372         | $175.25         |
+| AKAM     | Akamai Technologies, Inc.       | 15.33%             | $1,556,862,980         | $83.09          |
 
 ## Top 10 by Absolute Dollar Value Shorted
 | Ticker   | Name                         | Dollar Value Shorted   | Short % of Float   | Current Price   |
 |:---------|:-----------------------------|:-----------------------|:-------------------|:----------------|
-| NVDA     | NVIDIA Corporation           | $61,724,066,668        | 1.30%              | $204.64         |
-| AAPL     | Apple Inc.                   | $45,350,504,435        | 0.90%              | $344.63         |
-| MSFT     | Microsoft Corporation        | $34,276,208,044        | 0.88%              | $521.91         |
-| TSLA     | Tesla, Inc.                  | $27,727,011,011        | 1.96%              | $399.81         |
-| AMZN     | Amazon.com, Inc.             | $22,510,315,500        | 0.95%              | $240.35         |
-| GOOGL    | Alphabet Inc.                | $21,949,782,376        | 1.33%              | $279.84         |
-| MU       | Micron Technology, Inc.      | $19,936,408,230        | 2.00%              | $884.74         |
-| AMD      | Advanced Micro Devices, Inc. | $19,241,695,322        | 2.34%              | $504.80         |
-| AVGO     | Broadcom Inc.                | $17,481,582,812        | 1.14%              | $326.08         |
-| META     | Meta Platforms, Inc.         | $17,476,750,151        | 1.28%              | $614.99         |
+| NVDA     | NVIDIA Corporation           | $56,294,858,302        | 1.30%              | $186.64         |
+| AAPL     | Apple Inc.                   | $45,053,106,820        | 0.91%              | $342.37         |
+| MSFT     | Microsoft Corporation        | $34,847,576,690        | 0.88%              | $530.61         |
+| TSLA     | Tesla, Inc.                  | $24,842,725,005        | 2.13%              | $358.22         |
+| AMZN     | Amazon.com, Inc.             | $24,285,104,261        | 0.95%              | $259.30         |
+| GOOGL    | Alphabet Inc.                | $22,337,260,667        | 1.33%              | $284.78         |
+| META     | Meta Platforms, Inc.         | $17,339,207,311        | 1.28%              | $610.15         |
+| AMD      | Advanced Micro Devices, Inc. | $17,116,265,586        | 2.33%              | $449.04         |
+| AVGO     | Broadcom Inc.                | $15,745,111,801        | 1.14%              | $293.69         |
+| MU       | Micron Technology, Inc.      | $15,548,208,150        | 2.00%              | $690.00         |
